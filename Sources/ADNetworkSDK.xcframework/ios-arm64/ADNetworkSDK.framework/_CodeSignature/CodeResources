@@ -10,7 +10,7 @@
 		</data>
 		<key>Headers/ADNetworkSDK-Swift.h</key>
 		<data>
-		/nfn++8BY7J0+22mvvgDMup35Lw=
+		Y5lhdlFRXuivE4na7fxSg4H4ZPE=
 		</data>
 		<key>Headers/ADNetworkSDK.h</key>
 		<data>
@@ -18,31 +18,31 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		jyUja/RaenXPzN3yhp3Fo2DkWEU=
+		psk8lYTFYQIC7nE1IuYpW3wfnWY=
 		</data>
 		<key>Modules/ADNetworkSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		cqFovuVb4S8g6bnte+IgkiRZQZA=
+		9d8EuRIwgNYr7aaNGRmejTRY/6s=
 		</data>
 		<key>Modules/ADNetworkSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		7mYJ5iFLkPeLCJ/UH5ZN2hW6j+Y=
+		5mh3IFM5GCeENTaEpgznM3wLWbo=
 		</data>
 		<key>Modules/ADNetworkSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		cFlhKshhM6acJLMX3GkN57CCwlY=
+		ENlaMFxUz/+FfmmXmiM76oOKAak=
 		</data>
 		<key>Modules/ADNetworkSDK.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		cqFovuVb4S8g6bnte+IgkiRZQZA=
+		9d8EuRIwgNYr7aaNGRmejTRY/6s=
 		</data>
 		<key>Modules/ADNetworkSDK.swiftmodule/arm64.swiftinterface</key>
 		<data>
-		7mYJ5iFLkPeLCJ/UH5ZN2hW6j+Y=
+		5mh3IFM5GCeENTaEpgznM3wLWbo=
 		</data>
 		<key>Modules/ADNetworkSDK.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		cFlhKshhM6acJLMX3GkN57CCwlY=
+		ENlaMFxUz/+FfmmXmiM76oOKAak=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -57,6 +57,10 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>mraid.js</key>
+		<data>
+		+fKi8q4fyhMShnKedpuK16QKblk=
+		</data>
 		<key>pause.png</key>
 		<data>
 		UPt4MKWptnWjJX5gFZwG9L2MBuE=
@@ -69,7 +73,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			DaG8zQoPffspJQmyy9MrV5Gz8i4=
+			tCmhVZtpDZT0p1PISy55U3foFfw=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -96,7 +100,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			LxFzOnjnY5BiNBNlSWf9endhwOgVjB/uyRu7qmB3u8o=
+			qAa+Mgk9ggO4tfoUu5MmaRAdwo+0xWoKTV/5fDsVG1I=
 			</data>
 		</dict>
 		<key>Headers/ADNetworkSDK.h</key>
@@ -110,42 +114,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			VzhwIzi7cx84oR7hT+A0mCDiL/lQ4XLuBFet5fgQ1ZA=
+			UuLGFxIhcjvppuI6rMpWtK4zhqPgvrRyxQ5oNO4yLLU=
 			</data>
 		</dict>
 		<key>Modules/ADNetworkSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			t9W2Gx+cS6p3cTVQFVwOEzc59x4PP6UEOgp900DZjPM=
+			vc2MR4Cixxcl0qjFH14h4F9si7UwQVwTcoPDTWpNpmU=
 			</data>
 		</dict>
 		<key>Modules/ADNetworkSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			FvqM6DDbDHgO5pvi3U/V+78PVKHbxuYDvEOh1vGS7z4=
+			u5bYpmRsocl0ak5vv/wtIF+X/UY8rGZpPqW4hON0E2Y=
 			</data>
 		</dict>
 		<key>Modules/ADNetworkSDK.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VzhwIzi7cx84oR7hT+A0mCDiL/lQ4XLuBFet5fgQ1ZA=
+			UuLGFxIhcjvppuI6rMpWtK4zhqPgvrRyxQ5oNO4yLLU=
 			</data>
 		</dict>
 		<key>Modules/ADNetworkSDK.swiftmodule/arm64.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			t9W2Gx+cS6p3cTVQFVwOEzc59x4PP6UEOgp900DZjPM=
+			vc2MR4Cixxcl0qjFH14h4F9si7UwQVwTcoPDTWpNpmU=
 			</data>
 		</dict>
 		<key>Modules/ADNetworkSDK.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			FvqM6DDbDHgO5pvi3U/V+78PVKHbxuYDvEOh1vGS7z4=
+			u5bYpmRsocl0ak5vv/wtIF+X/UY8rGZpPqW4hON0E2Y=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -163,6 +167,13 @@
 			</data>
 			<key>optional</key>
 			<true/>
+		</dict>
+		<key>mraid.js</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			nb4ylm6ZRWNcpousSuNKtQdMX2hpAWfLUNCoojCy5bo=
+			</data>
 		</dict>
 		<key>pause.png</key>
 		<dict>
@@ -182,7 +193,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ISqHBqwQwwMHAKprAR0Vcel+sFAROzBGS0TuOvv80n8=
+			JWgeKdsh27Z0dR3eKrE1My8pkfhRzzQ6bwkAVB/3Ido=
 			</data>
 			<key>optional</key>
 			<true/>

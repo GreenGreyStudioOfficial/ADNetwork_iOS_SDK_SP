@@ -26,7 +26,11 @@ public protocol ADNetworkSDKDelegate : AnyObject {
   public var delegate: ADNetworkSDK.ADNetworkSDKDelegate?
   convenience public init(key: Swift.String, delegate: ADNetworkSDK.ADNetworkSDKDelegate)
   public func reset(completionHandler: @escaping () -> Swift.Void)
-  public func load(rewarded: Swift.Bool)
+  public func load(rewarded: Swift.Bool, mraid: Swift.Bool)
   public func show()
   @objc deinit
+}
+extension WebKit.WKWebView : WebKit.WKScriptMessageHandler {
+  @_Concurrency.MainActor(unsafe) public func enableConsoleLog()
+  @_Concurrency.MainActor(unsafe) @objc dynamic public func userContentController(_ userContentController: WebKit.WKUserContentController, didReceive message: WebKit.WKScriptMessage)
 }

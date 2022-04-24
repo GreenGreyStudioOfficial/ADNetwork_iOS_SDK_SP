@@ -10,7 +10,7 @@
 		</data>
 		<key>Resources/Info.plist</key>
 		<data>
-		aDSjz9mNmIpLz8B9fjqq8Da1Jps=
+		cfAnK9ep8iFSUSw5QEee8KXuJ1U=
 		</data>
 		<key>Resources/en.lproj/Localizable.strings</key>
 		<dict>
@@ -21,6 +21,10 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>Resources/mraid.js</key>
+		<data>
+		+fKi8q4fyhMShnKedpuK16QKblk=
+		</data>
 		<key>Resources/pause.png</key>
 		<data>
 		5+/6XL8h+OAYBuK3913mT3tpO/0=
@@ -33,7 +37,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			1NqDB20AgbYdMxZs4NLZD4IxIko=
+			+BC54kj/y/43MazDD51wla7AX8c=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -53,7 +57,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			hsXq2ULvWWWxT1+ejVXwJ/xIFdwUKy4T1qRTaLNf5Gw=
+			z3Xx24DZ2GL5Itx1viHytWkXffNpMpE4rYtyWLSEPqQ=
 			</data>
 		</dict>
 		<key>Headers/ADNetworkSDK.h</key>
@@ -67,84 +71,84 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			dkAya/3ev8ZD3iYisCd5Jdy7n6SIhcolc1hwYhMMwk4=
+			+9ki+4kdEW0EnMK3RJ9gxP8zaTojb2cOkaUaipHIssM=
 			</data>
 		</dict>
 		<key>Modules/ADNetworkSDK.swiftmodule/arm64-apple-ios-macabi.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xmmb4oR1jjVCoFxwjNSUtrH23BJGNZi0vm6lgC3qGjg=
+			C+ZF94ORcMdcdCJIKiSuoH0GavQurr6Bu2gLDnJqVTc=
 			</data>
 		</dict>
 		<key>Modules/ADNetworkSDK.swiftmodule/arm64-apple-ios-macabi.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			GtnVOYbfxeO/ebKDqPDQyHaRIJSYjTsUtw6jBiEwZL8=
+			9ediap2dr1nczVUZBMYgL1mr349Q835O+137mVrVaU8=
 			</data>
 		</dict>
 		<key>Modules/ADNetworkSDK.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			dkAya/3ev8ZD3iYisCd5Jdy7n6SIhcolc1hwYhMMwk4=
+			+9ki+4kdEW0EnMK3RJ9gxP8zaTojb2cOkaUaipHIssM=
 			</data>
 		</dict>
 		<key>Modules/ADNetworkSDK.swiftmodule/arm64.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xmmb4oR1jjVCoFxwjNSUtrH23BJGNZi0vm6lgC3qGjg=
+			C+ZF94ORcMdcdCJIKiSuoH0GavQurr6Bu2gLDnJqVTc=
 			</data>
 		</dict>
 		<key>Modules/ADNetworkSDK.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			GtnVOYbfxeO/ebKDqPDQyHaRIJSYjTsUtw6jBiEwZL8=
+			9ediap2dr1nczVUZBMYgL1mr349Q835O+137mVrVaU8=
 			</data>
 		</dict>
 		<key>Modules/ADNetworkSDK.swiftmodule/x86_64-apple-ios-macabi.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			w9/CQkylp6YqGvAnK10jDZdp+TgiHa4RKXINLHr9mlA=
+			KtNQc+SsdM+7aDfwVaqIq7lux+1eobfIheIcMiGlJWQ=
 			</data>
 		</dict>
 		<key>Modules/ADNetworkSDK.swiftmodule/x86_64-apple-ios-macabi.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vSjFLgZ3AQ17zaFo4yQALAuup2saM1+cCEnl8jaaa1E=
+			D9PSviA24TlmMHbRQf2Y+yQoWC3IJZbMSol2Gwv8gdI=
 			</data>
 		</dict>
 		<key>Modules/ADNetworkSDK.swiftmodule/x86_64-apple-ios-macabi.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ff9B+ZZkGaibVNXlIgLll3bTclNA4R4TeQANaaHA1LY=
+			FuTOfjVNr7bl7kAzye3tlz6+A57NquvVnGQt0iHqZLk=
 			</data>
 		</dict>
 		<key>Modules/ADNetworkSDK.swiftmodule/x86_64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			w9/CQkylp6YqGvAnK10jDZdp+TgiHa4RKXINLHr9mlA=
+			KtNQc+SsdM+7aDfwVaqIq7lux+1eobfIheIcMiGlJWQ=
 			</data>
 		</dict>
 		<key>Modules/ADNetworkSDK.swiftmodule/x86_64.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vSjFLgZ3AQ17zaFo4yQALAuup2saM1+cCEnl8jaaa1E=
+			D9PSviA24TlmMHbRQf2Y+yQoWC3IJZbMSol2Gwv8gdI=
 			</data>
 		</dict>
 		<key>Modules/ADNetworkSDK.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ff9B+ZZkGaibVNXlIgLll3bTclNA4R4TeQANaaHA1LY=
+			FuTOfjVNr7bl7kAzye3tlz6+A57NquvVnGQt0iHqZLk=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -165,7 +169,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			q59+JXZVjnNFwI2faFwW5iL5z2UlBXBX0orJ4mdm4P0=
+			eCDJzi78VkZYzwtMdRDCGUc/9Teqli38L5RrMRe0F4g=
 			</data>
 		</dict>
 		<key>Resources/en.lproj/Localizable.strings</key>
@@ -176,6 +180,13 @@
 			</data>
 			<key>optional</key>
 			<true/>
+		</dict>
+		<key>Resources/mraid.js</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			nb4ylm6ZRWNcpousSuNKtQdMX2hpAWfLUNCoojCy5bo=
+			</data>
 		</dict>
 		<key>Resources/pause.png</key>
 		<dict>
@@ -195,7 +206,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			moFTn1RQv93GbaUf9WhqdjnnQVaQOiMquYpOOXqAHD0=
+			QyI9a+gl/tvZwUW1MlTEPg5B/oLrAmyjMPU3g2Jpw0I=
 			</data>
 			<key>optional</key>
 			<true/>
