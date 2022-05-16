@@ -4,16 +4,16 @@
 import PackageDescription
 
 let package = Package(
-    name: "ADNetworkSDKPackage",
+    name: "ADNetworkSDK",
     products: [
         .library(
-            name: "ADNetworkSDKPackage",
-            targets: ["ADNetworkSDKPackage"]
+            name: "ADNetworkSDK",
+            targets: ["ADNetworkSDK"]
         ),
     ],
     targets: [
         .binaryTarget(
-            name: "ADNetworkSDKPackage",
+            name: "ADNetworkSDK",
             path: "./Sources/ADNetworkSDK.xcframework"
         )
     ]
