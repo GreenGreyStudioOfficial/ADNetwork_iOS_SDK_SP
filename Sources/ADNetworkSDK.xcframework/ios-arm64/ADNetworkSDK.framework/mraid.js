@@ -27,8 +27,11 @@
          "TEL" : "tel",
          "STORE_PICTURE" : "storePicture",
          "INLINE_VIDEO" : "inlineVideo",
-         "CALENDAR" : "calendar"
+         "CALENDAR" : "calendar",
+         "SDK" : "sdk"
      };
+     
+     var rewarded = false;
 
      var version = '3.0';
      var state = STATES.LOADING;
@@ -36,7 +39,11 @@
      var listeners = [];
      var screenSize = { width:0, height:0 };
      var supportedFeatures = [];
-     mraid.isViewable = true;
+     
+     var viewable = false;
+     mraid.isViewable = function() {
+         return viewable;
+     };
 
      mraid.getVersion = function() {
          console.log('getVersion (version = ' + version + ")");
@@ -75,8 +82,14 @@
          mraid.fireEvent(EVENTS.SIZECHANGE)
      }
      
-     mraid.setExposure = function(viewable){
-         mraid.isViewable = viewable;
+     mraid.viewableChange = function(_viewable){
+         viewable = _viewable;
+         console.log("viewableChange: " + viewable);
+         mraid.fireEvent(EVENTS.VIEWABLECHANGE)
+     }
+     
+     mraid.setExposure = function(_viewable){
+         viewable = _viewable;
          console.log("setExposure: " + viewable);
          mraid.fireEvent(EVENTS.EXPOSURECHANGE)
      }
@@ -108,6 +121,24 @@
      mraid.supports = function(feature){
          console.log('supports - ' + feature + ' : ' + (supportedFeatures[feature] === true));
          return supportedFeatures[feature]=== true;
+     }
+     
+     // ------------------------------------------------------------------------------
+     //                      Rewarded Ad
+     // ------------------------------------------------------------------------------
+     
+     mraid.getRewarded = function(){
+         console.log('getRewarded: ' + rewarded);
+         return rewarded;
+    }
+     
+     mraid.setRewarded  = function(_rewarded){
+         console.log("setRewarded: " + _rewarded);
+         rewarded = _rewarded;
+    }
+     
+     mraid.rewardReceived = function(received){
+         window.webkit.messageHandlers.nativeapp.postMessage({"type":"reward", "value":received});
      }
      
      // ------------------------------------------------------------------------------
