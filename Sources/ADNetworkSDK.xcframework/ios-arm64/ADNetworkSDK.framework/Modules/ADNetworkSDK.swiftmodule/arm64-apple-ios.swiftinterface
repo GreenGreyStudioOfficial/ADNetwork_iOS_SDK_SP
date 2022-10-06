@@ -1,5 +1,5 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)
+// swift-compiler-version: Apple Swift version 5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)
 // swift-module-flags: -target arm64-apple-ios13.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name ADNetworkSDK
 @_exported import ADNetworkSDK
 import AVFoundation
@@ -12,15 +12,15 @@ import SystemConfiguration
 import UIKit
 import WebKit
 import _Concurrency
-public protocol ADNetworkSDKDelegate : AnyObject {
-  func downloadComplete(id: Swift.String, fileName: Swift.String)
-  func downloadFailed(id: Swift.String, error: Swift.String)
-  func haveAdsToShow(available: Swift.Bool)
-  func showStart()
-  func showClose()
-  func showComplete(id: Swift.String?, rewarded: Swift.Bool, rewardRecieved: Swift.Bool)
-  func showFailed(error: Swift.String)
-  func log(_ message: Swift.String)
+@objc public protocol ADNetworkSDKDelegate {
+  @objc func downloadComplete(id: Swift.String, fileName: Swift.String)
+  @objc func downloadFailed(id: Swift.String, error: Swift.String)
+  @objc func haveAdsToShow(available: Swift.Bool)
+  @objc func showStart()
+  @objc func showClose()
+  @objc func showComplete(id: Swift.String?, rewarded: Swift.Bool, rewardRecieved: Swift.Bool)
+  @objc func showFailed(error: Swift.String)
+  @objc optional func log(_ message: Swift.String)
 }
 @_hasMissingDesignatedInitializers public class ADNetworkSDK {
   public var delegate: ADNetworkSDKDelegate?
