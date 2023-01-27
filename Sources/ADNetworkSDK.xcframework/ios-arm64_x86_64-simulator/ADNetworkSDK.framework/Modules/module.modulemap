@@ -6,6 +6,6 @@ framework module ADNetworkSDK {
 }
 
 module ADNetworkSDK.Swift {
-    header "ADNetworkSDK-Swift.h"
-    requires objc
+  header "ADNetworkSDK-Swift.h"
+  requires objc
 }

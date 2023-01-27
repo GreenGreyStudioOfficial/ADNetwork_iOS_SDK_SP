@@ -10,7 +10,7 @@
 		</data>
 		<key>Resources/Info.plist</key>
 		<data>
-		vMGhYue4STd3PM9pe3ChIjEnb20=
+		1R0ZGy0/u+TXJ/8Zc+GeBY7cq5A=
 		</data>
 		<key>Resources/call.png</key>
 		<data>
@@ -101,7 +101,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			MUTPPb4MAoHhmTPeh95FR/pfGBkm0ab4k+gTg2gMjCA=
+			4CqtwYJnS7FGoEjQmX0q5xV70W1+KYEgOo5CukLbUsU=
 			</data>
 		</dict>
 		<key>Headers/ADNetworkSDK.h</key>
@@ -111,53 +111,81 @@
 			vcZZVjvZY/neVt1W9BbL3khvIoa9sJD3eq2Fvx9V1bk=
 			</data>
 		</dict>
+		<key>Modules/ADNetworkSDK.swiftmodule/arm64-apple-ios-macabi.abi.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			CQZR2Q73YQpfAUi03bo014FjA+klF4pg5Em0g0p+iRI=
+			</data>
+		</dict>
+		<key>Modules/ADNetworkSDK.swiftmodule/arm64-apple-ios-macabi.private.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			9XrNF2yC7m7qWT1rgz9Bmq+CK1IUH77KaQ3aSPPYK1k=
+			</data>
+		</dict>
 		<key>Modules/ADNetworkSDK.swiftmodule/arm64-apple-ios-macabi.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			YBn71GrPTtubb8pLFWfXvu3C2vvYpuYGHrar7wOlT+o=
+			7NefyzxyI4nEZLX1RbyylB/wYIXudnMYLC9csXnTIsU=
 			</data>
 		</dict>
 		<key>Modules/ADNetworkSDK.swiftmodule/arm64-apple-ios-macabi.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			l80FEtfPBP6z+6bMYV+D7C59v/9OK2UKz2gB6cjFPRU=
+			9XrNF2yC7m7qWT1rgz9Bmq+CK1IUH77KaQ3aSPPYK1k=
 			</data>
 		</dict>
 		<key>Modules/ADNetworkSDK.swiftmodule/arm64-apple-ios-macabi.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			aunalYCMtR2++sxcCMfZjBiGHBcXvl9xnccaTGci1KI=
+			JK0S6XFvWl0wRomwreRmsYoP57vuEcINeOyijm/w9Yc=
+			</data>
+		</dict>
+		<key>Modules/ADNetworkSDK.swiftmodule/x86_64-apple-ios-macabi.abi.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			CQZR2Q73YQpfAUi03bo014FjA+klF4pg5Em0g0p+iRI=
+			</data>
+		</dict>
+		<key>Modules/ADNetworkSDK.swiftmodule/x86_64-apple-ios-macabi.private.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			N/7U9TB02L0I43XwDvretSDUd1sIZkybfEPn19YThyY=
 			</data>
 		</dict>
 		<key>Modules/ADNetworkSDK.swiftmodule/x86_64-apple-ios-macabi.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			J6mjS0o4wy6o3su/jsmeyOx/+55Juh+kP1n9pO6nXPY=
+			JHxC12AFYSy1dm5El2LuS1gg4aFH2LLJVCs6HypyNuI=
 			</data>
 		</dict>
 		<key>Modules/ADNetworkSDK.swiftmodule/x86_64-apple-ios-macabi.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Re5q/r4BwyQaMnbTmGOoneA02BWoqVBnCGOMlQCIxb0=
+			N/7U9TB02L0I43XwDvretSDUd1sIZkybfEPn19YThyY=
 			</data>
 		</dict>
 		<key>Modules/ADNetworkSDK.swiftmodule/x86_64-apple-ios-macabi.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			irrXnEKRitALNdMk8FLWhwMiPzK9f4OArUxDZ0jkntU=
+			xypxGxdTL23EwAvnjN7sXpPDSxwH2emaKpabYKDwGi8=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			2W6GZGLkTi1zIHqzdh3i4nQNR5bDWI48BO0LlEhJY/U=
+			rNHFNtbN5v4RfYRgqShQ+gRFKK1hk11nQ7Uhc9XR/UQ=
 			</data>
 		</dict>
 		<key>Resources/Decima Pro A Light.otf</key>
@@ -171,7 +199,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			++I0h8P5dLkPD2WVGojKav7BlccV5rao9FYDK2hliUA=
+			vPwv6f1Ao64VEsCeqOCi0ps6/0SJF9cRQLXstIcrK2A=
 			</data>
 		</dict>
 		<key>Resources/call.png</key>
