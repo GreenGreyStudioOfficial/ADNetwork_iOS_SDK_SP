@@ -10,7 +10,7 @@
 		</data>
 		<key>Resources/Info.plist</key>
 		<data>
-		1R0ZGy0/u+TXJ/8Zc+GeBY7cq5A=
+		lifa1LimPHyH/OXGUpu6NQw7rfQ=
 		</data>
 		<key>Resources/call.png</key>
 		<data>
@@ -101,7 +101,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			4CqtwYJnS7FGoEjQmX0q5xV70W1+KYEgOo5CukLbUsU=
+			H3eg58FxbdFKj99pSUEvWZcuYGNtwRSsGT92pt/kcWo=
 			</data>
 		</dict>
 		<key>Headers/ADNetworkSDK.h</key>
@@ -115,14 +115,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			CQZR2Q73YQpfAUi03bo014FjA+klF4pg5Em0g0p+iRI=
+			pLyINb4zVLDKA+46NDVk2qlics9OdGi+qWTq5wxhU0M=
 			</data>
 		</dict>
 		<key>Modules/ADNetworkSDK.swiftmodule/arm64-apple-ios-macabi.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9XrNF2yC7m7qWT1rgz9Bmq+CK1IUH77KaQ3aSPPYK1k=
+			vzM08rCeAIn3ZSO/g1kubu2DSLDqE1vr1MI4SwU7CG0=
 			</data>
 		</dict>
 		<key>Modules/ADNetworkSDK.swiftmodule/arm64-apple-ios-macabi.swiftdoc</key>
@@ -136,28 +136,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			9XrNF2yC7m7qWT1rgz9Bmq+CK1IUH77KaQ3aSPPYK1k=
+			vzM08rCeAIn3ZSO/g1kubu2DSLDqE1vr1MI4SwU7CG0=
 			</data>
 		</dict>
 		<key>Modules/ADNetworkSDK.swiftmodule/arm64-apple-ios-macabi.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			JK0S6XFvWl0wRomwreRmsYoP57vuEcINeOyijm/w9Yc=
+			Y4fFUWgJ+hpdc7HMHqc26+kr7ZAmlVVWpymeuGy6xdU=
 			</data>
 		</dict>
 		<key>Modules/ADNetworkSDK.swiftmodule/x86_64-apple-ios-macabi.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			CQZR2Q73YQpfAUi03bo014FjA+klF4pg5Em0g0p+iRI=
+			pLyINb4zVLDKA+46NDVk2qlics9OdGi+qWTq5wxhU0M=
 			</data>
 		</dict>
 		<key>Modules/ADNetworkSDK.swiftmodule/x86_64-apple-ios-macabi.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			N/7U9TB02L0I43XwDvretSDUd1sIZkybfEPn19YThyY=
+			FuwCcmu8X64AZzbwqWga/IiV42gHwFswK+cQESdXJiY=
 			</data>
 		</dict>
 		<key>Modules/ADNetworkSDK.swiftmodule/x86_64-apple-ios-macabi.swiftdoc</key>
@@ -171,14 +171,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			N/7U9TB02L0I43XwDvretSDUd1sIZkybfEPn19YThyY=
+			FuwCcmu8X64AZzbwqWga/IiV42gHwFswK+cQESdXJiY=
 			</data>
 		</dict>
 		<key>Modules/ADNetworkSDK.swiftmodule/x86_64-apple-ios-macabi.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xypxGxdTL23EwAvnjN7sXpPDSxwH2emaKpabYKDwGi8=
+			+l5VpWLbspZHm10N9w7/Tp2TyTVGVlZ184243/5AI+g=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -199,7 +199,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			vPwv6f1Ao64VEsCeqOCi0ps6/0SJF9cRQLXstIcrK2A=
+			7BcQY8mXmHwhl6NXqQq3p1iGkvHRdtGfRYWJg9iAPOs=
 			</data>
 		</dict>
 		<key>Resources/call.png</key>

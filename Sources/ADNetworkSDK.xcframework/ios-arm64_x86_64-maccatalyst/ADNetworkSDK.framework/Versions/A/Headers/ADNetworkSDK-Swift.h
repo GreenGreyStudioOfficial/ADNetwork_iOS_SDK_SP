@@ -260,6 +260,7 @@ SWIFT_PROTOCOL("_TtP12ADNetworkSDK20ADNetworkSDKDelegate_")
 - (void)haveAdsToShowWithAvailable:(BOOL)available;
 - (void)showStart;
 - (void)showClose;
+- (void)showClick;
 - (void)showCompleteWithId:(NSString * _Nullable)id rewarded:(BOOL)rewarded rewardRecieved:(BOOL)rewardRecieved;
 - (void)showFailedWithError:(NSString * _Nonnull)error;
 @optional
@@ -545,6 +546,7 @@ SWIFT_PROTOCOL("_TtP12ADNetworkSDK20ADNetworkSDKDelegate_")
 - (void)haveAdsToShowWithAvailable:(BOOL)available;
 - (void)showStart;
 - (void)showClose;
+- (void)showClick;
 - (void)showCompleteWithId:(NSString * _Nullable)id rewarded:(BOOL)rewarded rewardRecieved:(BOOL)rewardRecieved;
 - (void)showFailedWithError:(NSString * _Nonnull)error;
 @optional

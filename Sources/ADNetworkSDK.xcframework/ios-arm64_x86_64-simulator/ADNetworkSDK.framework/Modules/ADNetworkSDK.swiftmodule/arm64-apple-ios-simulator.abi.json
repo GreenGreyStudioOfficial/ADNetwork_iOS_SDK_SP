@@ -246,6 +246,30 @@
           },
           {
             "kind": "Function",
+            "name": "showClick",
+            "printedName": "showClick()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@ADNetworkSDK@objc(pl)ADNetworkSDKDelegate(im)showClick",
+            "mangledName": "$s12ADNetworkSDK0A11SDKDelegateP9showClickyyF",
+            "moduleName": "ADNetworkSDK",
+            "genericSig": "<τ_0_0 where τ_0_0 : ADNetworkSDK.ADNetworkSDKDelegate>",
+            "sugared_genericSig": "<Self where Self : ADNetworkSDK.ADNetworkSDKDelegate>",
+            "protocolReq": true,
+            "declAttributes": [
+              "ObjC"
+            ],
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
             "name": "showComplete",
             "printedName": "showComplete(id:rewarded:rewardRecieved:)",
             "children": [
@@ -477,6 +501,117 @@
           },
           {
             "kind": "Var",
+            "name": "key",
+            "printedName": "key",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:12ADNetworkSDKAAC3keySSSgvp",
+            "mangledName": "$s12ADNetworkSDKAAC3keySSSgvp",
+            "moduleName": "ADNetworkSDK",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:12ADNetworkSDKAAC3keySSSgvg",
+                "mangledName": "$s12ADNetworkSDKAAC3keySSSgvg",
+                "moduleName": "ADNetworkSDK",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:12ADNetworkSDKAAC3keySSSgvs",
+                "mangledName": "$s12ADNetworkSDKAAC3keySSSgvs",
+                "moduleName": "ADNetworkSDK",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:12ADNetworkSDKAAC3keySSSgvM",
+                "mangledName": "$s12ADNetworkSDKAAC3keySSSgvM",
+                "moduleName": "ADNetworkSDK",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
             "name": "shared",
             "printedName": "shared",
             "children": [
@@ -493,10 +628,13 @@
             "moduleName": "ADNetworkSDK",
             "static": true,
             "declAttributes": [
+              "HasInitialValue",
               "Final",
+              "HasStorage",
               "AccessControl",
               "RawDocComment"
             ],
+            "hasStorage": true,
             "accessors": [
               {
                 "kind": "Accessor",
@@ -515,39 +653,63 @@
                 "mangledName": "$s12ADNetworkSDKAAC6sharedABvgZ",
                 "moduleName": "ADNetworkSDK",
                 "static": true,
+                "implicit": true,
                 "declAttributes": [
                   "Final"
                 ],
                 "accessorKind": "get"
-              }
-            ]
-          },
-          {
-            "kind": "Function",
-            "name": "setup",
-            "printedName": "setup(withKey:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
               },
               {
-                "kind": "TypeNominal",
-                "name": "String",
-                "printedName": "Swift.String",
-                "usr": "s:SS"
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ADNetworkSDK",
+                    "printedName": "ADNetworkSDK.ADNetworkSDK",
+                    "usr": "s:12ADNetworkSDKAAC"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:12ADNetworkSDKAAC6sharedABvsZ",
+                "mangledName": "$s12ADNetworkSDKAAC6sharedABvsZ",
+                "moduleName": "ADNetworkSDK",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:12ADNetworkSDKAAC6sharedABvMZ",
+                "mangledName": "$s12ADNetworkSDKAAC6sharedABvMZ",
+                "moduleName": "ADNetworkSDK",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "_modify"
               }
-            ],
-            "declKind": "Func",
-            "usr": "s:12ADNetworkSDKAAC5setup7withKeyySS_tFZ",
-            "mangledName": "$s12ADNetworkSDKAAC5setup7withKeyySS_tFZ",
-            "moduleName": "ADNetworkSDK",
-            "static": true,
-            "declAttributes": [
-              "AccessControl"
-            ],
-            "funcSelfKind": "NonMutating"
+            ]
           },
           {
             "kind": "Function",
@@ -569,6 +731,27 @@
             "declKind": "Func",
             "usr": "s:12ADNetworkSDKAAC6setKeyyySSF",
             "mangledName": "$s12ADNetworkSDKAAC6setKeyyySSF",
+            "moduleName": "ADNetworkSDK",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "version",
+            "printedName": "version()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:12ADNetworkSDKAAC7versionSSyF",
+            "mangledName": "$s12ADNetworkSDKAAC7versionSSyF",
             "moduleName": "ADNetworkSDK",
             "declAttributes": [
               "AccessControl"
@@ -631,14 +814,23 @@
               },
               {
                 "kind": "TypeNominal",
-                "name": "Bool",
-                "printedName": "Swift.Bool",
-                "usr": "s:Sb"
+                "name": "Optional",
+                "printedName": "Swift.Bool?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
               }
             ],
             "declKind": "Func",
-            "usr": "s:12ADNetworkSDKAAC4load8rewarded5mraidySb_SbtF",
-            "mangledName": "$s12ADNetworkSDKAAC4load8rewarded5mraidySb_SbtF",
+            "usr": "s:12ADNetworkSDKAAC4load8rewarded5mraidySb_SbSgtF",
+            "mangledName": "$s12ADNetworkSDKAAC4load8rewarded5mraidySb_SbSgtF",
             "moduleName": "ADNetworkSDK",
             "declAttributes": [
               "AccessControl",
@@ -1221,49 +1413,42 @@
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/ADNetworkSDK.swift",
       "kind": "IntegerLiteral",
-      "offset": 1104,
+      "offset": 1187,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/ADNetworkSDK.swift",
       "kind": "IntegerLiteral",
-      "offset": 1146,
+      "offset": 1229,
       "length": 2,
       "value": "60"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/ADNetworkSDK.swift",
       "kind": "BooleanLiteral",
-      "offset": 1181,
+      "offset": 1264,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/ADNetworkSDK.swift",
       "kind": "BooleanLiteral",
-      "offset": 1216,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/ADNetworkSDK.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1333,
+      "offset": 1415,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Classes\/ADDataCollector.swift",
       "kind": "BooleanLiteral",
-      "offset": 589,
+      "offset": 588,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Classes\/ADDataCollector.swift",
       "kind": "StringLiteral",
-      "offset": 633,
+      "offset": 632,
       "length": 15,
       "value": "\"MobidrivenSDK\""
     },
@@ -1606,14 +1791,14 @@
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Classes\/ADNetwork.swift",
       "kind": "IntegerLiteral",
-      "offset": 474,
+      "offset": 473,
       "length": 2,
       "value": "30"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Classes\/ADNetwork.swift",
       "kind": "IntegerLiteral",
-      "offset": 528,
+      "offset": 527,
       "length": 2,
       "value": "30"
     }

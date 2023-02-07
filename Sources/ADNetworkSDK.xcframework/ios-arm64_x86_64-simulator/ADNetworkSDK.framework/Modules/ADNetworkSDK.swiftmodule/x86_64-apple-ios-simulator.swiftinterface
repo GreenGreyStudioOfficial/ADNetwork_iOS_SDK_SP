@@ -20,19 +20,19 @@ import _StringProcessing
   @objc func haveAdsToShow(available: Swift.Bool)
   @objc func showStart()
   @objc func showClose()
+  @objc func showClick()
   @objc func showComplete(id: Swift.String?, rewarded: Swift.Bool, rewardRecieved: Swift.Bool)
   @objc func showFailed(error: Swift.String)
   @objc optional func log(_ message: Swift.String)
 }
 @_hasMissingDesignatedInitializers public class ADNetworkSDK {
   weak public var delegate: ADNetworkSDKDelegate?
-  public static var shared: ADNetworkSDK {
-    get
-  }
-  public class func setup(withKey key: Swift.String)
+  public var key: Swift.String?
+  public static var shared: ADNetworkSDK
   public func setKey(_ key: Swift.String)
+  public func version() -> Swift.String
   public func reset(completionHandler: @escaping () -> Swift.Void)
-  public func load(rewarded: Swift.Bool, mraid: Swift.Bool)
+  public func load(rewarded: Swift.Bool, mraid: Swift.Bool? = nil)
   public func show()
   @objc deinit
 }
