@@ -1,6 +1,6 @@
 # ADNetworkSDK Swift Package
 
 Этот проект содержит бинарный код СДК рекламной сети.
-Он предназначен для встраивания СДК в сторонние приложения через Swift Package Manager.
+Он предназначен для встраивания СДК в сторонние приложения через Swift Package Manager или Cocoapods.
 Для подключения пакета используется его адрес в гите GreenGreyStudio:
 https://github.com/GreenGreyStudioOfficial/ADNetwork_iOS_SDK_SP.git

@@ -5,6 +5,7 @@ import PackageDescription
 
 let package = Package(
     name: "ADNetworkSDK",
+    platforms: [.iOS(.v13)],
     products: [
         .library(
             name: "ADNetworkSDK",
@@ -16,5 +17,6 @@ let package = Package(
             name: "ADNetworkSDK",
             path: "./Sources/ADNetworkSDK.xcframework"
         )
-    ]
+    ],
+    swiftLanguageVersions: [.v5]
 )
