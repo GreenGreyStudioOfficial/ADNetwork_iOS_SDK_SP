@@ -1,0 +1,42 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)
+// swift-module-flags: -target arm64-apple-ios13.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name ADNetworkSDK
+// swift-module-flags-ignorable: -enable-bare-slash-regex
+@_exported import ADNetworkSDK
+import AVFoundation
+import CoreLocation
+import CoreTelephony
+import Foundation
+import Network
+import Swift
+import SystemConfiguration
+import UIKit
+import WebKit
+import _Concurrency
+import _StringProcessing
+@objc public protocol ADNetworkSDKDelegate {
+  @objc func downloadComplete(id: Swift.String, fileName: Swift.String)
+  @objc func downloadFailed(id: Swift.String, error: Swift.String)
+  @objc func haveAdsToShow(available: Swift.Bool)
+  @objc func showStart()
+  @objc func showClose()
+  @objc func showClick()
+  @objc func showComplete(id: Swift.String?, rewarded: Swift.Bool, rewardRecieved: Swift.Bool)
+  @objc func showFailed(error: Swift.String)
+  @objc optional func log(_ message: Swift.String)
+}
+@_hasMissingDesignatedInitializers public class ADNetworkSDK {
+  weak public var delegate: ADNetworkSDKDelegate?
+  public var key: Swift.String?
+  public static var shared: ADNetworkSDK
+  public func setKey(_ key: Swift.String)
+  public func version() -> Swift.String
+  public func reset(completionHandler: @escaping () -> Swift.Void)
+  public func load(rewarded: Swift.Bool, mraid: Swift.Bool? = nil)
+  public func show()
+  @objc deinit
+}
+extension WebKit.WKWebView : WebKit.WKScriptMessageHandler {
+  @_Concurrency.MainActor(unsafe) public func enableConsoleLog()
+  @_Concurrency.MainActor(unsafe) @objc dynamic public func userContentController(_ userContentController: WebKit.WKUserContentController, didReceive message: WebKit.WKScriptMessage)
+}

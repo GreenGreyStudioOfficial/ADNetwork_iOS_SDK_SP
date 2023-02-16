@@ -1,0 +1,11 @@
+framework module ADNetworkSDK {
+  umbrella header "ADNetworkSDK.h"
+
+  export *
+  module * { export * }
+}
+
+module ADNetworkSDK.Swift {
+  header "ADNetworkSDK-Swift.h"
+  requires objc
+}
