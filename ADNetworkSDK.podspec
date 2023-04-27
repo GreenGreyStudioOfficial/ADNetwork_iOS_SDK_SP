@@ -8,10 +8,16 @@ Pod::Spec.new do |s|
   s.author           = { 'Mobidriven' => 'info@mobidriven.com' }
   s.source           = { :git => 'https://github.com/GreenGreyStudioOfficial/ADNetwork_iOS_SDK_SP.git', :tag => "#{s.version}" }
 
-  s.vendored_frameworks = "ADNetworkSDK.xcframework"
   s.platform = :ios
   s.ios.deployment_target = '13.0'
   s.swift_version = '5.0'
 
-  s.source_files = 'Sources/ADNetworkSDK/**/*'
+  s.source_files = 'Sources/ADNetworkSDK.xcframework/**/*'
+
+  s.frameworks   = "Foundation", "UIKit"
+
+  s.requires_arc = true
+  s.static_framework = true
+
+  s.user_target_xcconfig = { 'ONLY_ACTIVE_ARCH' => 'YES' } 
 end
