@@ -10,7 +10,7 @@
 		</data>
 		<key>Headers/ADNetworkSDK-Swift.h</key>
 		<data>
-		P/ssg2AxDiVKk3oJ20Hu5qA/7Z4=
+		EUxSAn0M9BjSuRw5Tdo6TOdXKWk=
 		</data>
 		<key>Headers/ADNetworkSDK.h</key>
 		<data>
@@ -22,11 +22,11 @@
 		</data>
 		<key>Modules/ADNetworkSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		jDAJNw2VsM70qsDKhycIsux8H+U=
+		X1hf+USMcZQhaE/mJ3MsRUg8r1E=
 		</data>
 		<key>Modules/ADNetworkSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		cYPs37hhSheCZlsqd6MeYPciDRE=
+		pGDifVbSXomHSAcIqUaOuVsBgck=
 		</data>
 		<key>Modules/ADNetworkSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/ADNetworkSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		cYPs37hhSheCZlsqd6MeYPciDRE=
+		pGDifVbSXomHSAcIqUaOuVsBgck=
 		</data>
 		<key>Modules/ADNetworkSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		TyO6msJfFn82BhVyg2tNYTRPDhg=
+		tpltGsdIXS5p4IitWy6E0zgCwZE=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -140,7 +140,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			vju+tF4/rGbPbUXoLy7fZxd4RNJ5BC690y5JhV6Pkn4=
+			rJ9nKPge3ctK4rNrycTi7eVuVjY2SQntkdRuC1X8YNA=
 			</data>
 		</dict>
 		<key>Headers/ADNetworkSDK.h</key>
@@ -154,14 +154,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			YJ2xg+ZFvKIxM3TiOC8hndeatqH+kU/YSFek0J9zE/E=
+			6PXkAMNrJK57yo0OcRVANbDR7u/gtoqUeJHfuJNfbzU=
 			</data>
 		</dict>
 		<key>Modules/ADNetworkSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			SPHvuR26S//t9dGudZbwSJc2M/+jZlJp9A7Axo4i9uk=
+			Bc3n0Z5/k5wmIutx84kLHfmQFzBhM7y8mN6Kyg0RYKQ=
 			</data>
 		</dict>
 		<key>Modules/ADNetworkSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -175,14 +175,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			SPHvuR26S//t9dGudZbwSJc2M/+jZlJp9A7Axo4i9uk=
+			Bc3n0Z5/k5wmIutx84kLHfmQFzBhM7y8mN6Kyg0RYKQ=
 			</data>
 		</dict>
 		<key>Modules/ADNetworkSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			OW+2mQ5KaPXeFSzjZCigEJBSXe5RwYK6bOXuc04sOjM=
+			ojpeb6MnH1cCFLUxVlYnh8QdwBbQHDjlDENUUGcg/xQ=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

@@ -101,7 +101,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			m5nBGBGuQsFAPi78RZ6tnDZtATmQRr7l12oWpMoiQSg=
+			rLig3K/CNhv8PFz4+gejEc/PvUTGDCC0UHL4zYGwpYE=
 			</data>
 		</dict>
 		<key>Headers/ADNetworkSDK.h</key>
@@ -115,14 +115,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ozCMFMFabIkRnNbviD2fT24I8Dp5YSw1hYRlS73PyW8=
+			bBZnB365DOPXdi7cefAvO37Fe/qUalehI+SkKloYcGk=
 			</data>
 		</dict>
 		<key>Modules/ADNetworkSDK.swiftmodule/arm64-apple-ios-macabi.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ISn8FxOTQvhnSi9+gvTVZ4UPXlkPx6jfBd2ppbgBaLM=
+			kmGxxcuY4dWpuLSVa8EZyi6In1B9wcPc/cATQPdfiOc=
 			</data>
 		</dict>
 		<key>Modules/ADNetworkSDK.swiftmodule/arm64-apple-ios-macabi.swiftdoc</key>
@@ -136,28 +136,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ISn8FxOTQvhnSi9+gvTVZ4UPXlkPx6jfBd2ppbgBaLM=
+			kmGxxcuY4dWpuLSVa8EZyi6In1B9wcPc/cATQPdfiOc=
 			</data>
 		</dict>
 		<key>Modules/ADNetworkSDK.swiftmodule/arm64-apple-ios-macabi.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			qSxzbv+GBkZKsDGjpz7BAevLbBmF+68JjLmVMz28zHA=
+			0u2+URBoHkXwrnN9QnnE+XTiIGDZxrx2A2cngiKwHdI=
 			</data>
 		</dict>
 		<key>Modules/ADNetworkSDK.swiftmodule/x86_64-apple-ios-macabi.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ozCMFMFabIkRnNbviD2fT24I8Dp5YSw1hYRlS73PyW8=
+			bBZnB365DOPXdi7cefAvO37Fe/qUalehI+SkKloYcGk=
 			</data>
 		</dict>
 		<key>Modules/ADNetworkSDK.swiftmodule/x86_64-apple-ios-macabi.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			fqAQpK9n3bc6SSXQnxcLd8ZZF85lSLuNwJ7XjuRz3X8=
+			IkiJQgE7ehnHktXYe3YMjLf9iLYZZRrP4Wr12OGxLkw=
 			</data>
 		</dict>
 		<key>Modules/ADNetworkSDK.swiftmodule/x86_64-apple-ios-macabi.swiftdoc</key>
@@ -171,14 +171,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			fqAQpK9n3bc6SSXQnxcLd8ZZF85lSLuNwJ7XjuRz3X8=
+			IkiJQgE7ehnHktXYe3YMjLf9iLYZZRrP4Wr12OGxLkw=
 			</data>
 		</dict>
 		<key>Modules/ADNetworkSDK.swiftmodule/x86_64-apple-ios-macabi.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			y9q+yIPI4EMJIJ5tOfyY2uJ13wwE1ZTdhNInjsfmXLA=
+			Mi6X6rFeA5vXQ/kW3Hk7NXHeTY7KOLKQKYJNCbYUpBg=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

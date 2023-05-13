@@ -26,14 +26,15 @@ import _StringProcessing
   @objc optional func log(_ message: Swift.String)
 }
 @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers @objc public class ADNetworkSDK : ObjectiveC.NSObject {
-  weak public var delegate: (any ADNetworkSDK.ADNetworkSDKDelegate)?
+  @objc weak public var delegate: (any ADNetworkSDK.ADNetworkSDKDelegate)?
   @objc public var key: Swift.String?
   @objc public static var shared: ADNetworkSDK.ADNetworkSDK
   @objc public func setupWithKey(_ key: Swift.String)
   @objc public func version() -> Swift.String
   @objc public func reset(completionHandler: @escaping () -> Swift.Void)
+  @objc public func loadAd(rewarded: Swift.Bool)
   public func load(rewarded: Swift.Bool, mraid: Swift.Bool? = nil)
-  public func show()
+  @objc public func show()
   @objc deinit
 }
 extension WebKit.WKWebView : WebKit.WKScriptMessageHandler {

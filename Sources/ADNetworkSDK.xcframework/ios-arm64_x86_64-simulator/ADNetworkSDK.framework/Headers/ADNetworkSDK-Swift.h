@@ -282,10 +282,12 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 #endif
 
 #if defined(__OBJC__)
+@protocol ADNetworkSDKDelegate;
 @class NSString;
 
 SWIFT_CLASS("_TtC12ADNetworkSDK12ADNetworkSDK")
 @interface ADNetworkSDK : NSObject
+@property (nonatomic, weak) id <ADNetworkSDKDelegate> _Nullable delegate;
 @property (nonatomic, copy) NSString * _Nullable key;
 SWIFT_CLASS_PROPERTY(@property (nonatomic, class, strong) ADNetworkSDK * _Nonnull shared;)
 + (ADNetworkSDK * _Nonnull)shared SWIFT_WARN_UNUSED_RESULT;
@@ -295,6 +297,8 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, strong) ADNetworkSDK * _Nonnul
 - (void)setupWithKey:(NSString * _Nonnull)key;
 - (NSString * _Nonnull)version SWIFT_WARN_UNUSED_RESULT;
 - (void)resetWithCompletionHandler:(void (^ _Nonnull)(void))completionHandler;
+- (void)loadAdWithRewarded:(BOOL)rewarded;
+- (void)show;
 @end
 
 
@@ -613,10 +617,12 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 #endif
 
 #if defined(__OBJC__)
+@protocol ADNetworkSDKDelegate;
 @class NSString;
 
 SWIFT_CLASS("_TtC12ADNetworkSDK12ADNetworkSDK")
 @interface ADNetworkSDK : NSObject
+@property (nonatomic, weak) id <ADNetworkSDKDelegate> _Nullable delegate;
 @property (nonatomic, copy) NSString * _Nullable key;
 SWIFT_CLASS_PROPERTY(@property (nonatomic, class, strong) ADNetworkSDK * _Nonnull shared;)
 + (ADNetworkSDK * _Nonnull)shared SWIFT_WARN_UNUSED_RESULT;
@@ -626,6 +632,8 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, strong) ADNetworkSDK * _Nonnul
 - (void)setupWithKey:(NSString * _Nonnull)key;
 - (NSString * _Nonnull)version SWIFT_WARN_UNUSED_RESULT;
 - (void)resetWithCompletionHandler:(void (^ _Nonnull)(void))completionHandler;
+- (void)loadAdWithRewarded:(BOOL)rewarded;
+- (void)show;
 @end
 
 
