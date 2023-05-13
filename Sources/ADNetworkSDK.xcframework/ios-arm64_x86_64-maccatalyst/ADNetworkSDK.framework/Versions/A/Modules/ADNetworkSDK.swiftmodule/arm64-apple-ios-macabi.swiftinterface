@@ -1,5 +1,5 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)
+// swift-compiler-version: Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)
 // swift-module-flags: -target arm64-apple-ios13.1-macabi -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name ADNetworkSDK
 // swift-module-flags-ignorable: -enable-bare-slash-regex
 @_exported import ADNetworkSDK
@@ -24,13 +24,13 @@ import _StringProcessing
   @objc func showFailed(error: Swift.String)
   @objc optional func log(_ message: Swift.String)
 }
-@_hasMissingDesignatedInitializers public class ADNetworkSDK {
-  weak public var delegate: ADNetworkSDKDelegate?
-  public var key: Swift.String?
-  public static var shared: ADNetworkSDK
-  public func setKey(_ key: Swift.String)
-  public func version() -> Swift.String
-  public func reset(completionHandler: @escaping () -> Swift.Void)
+@_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers @objc public class ADNetworkSDK : ObjectiveC.NSObject {
+  weak public var delegate: (any ADNetworkSDKDelegate)?
+  @objc public var key: Swift.String?
+  @objc public static var shared: ADNetworkSDK
+  @objc public func setupWithKey(_ key: Swift.String)
+  @objc public func version() -> Swift.String
+  @objc public func reset(completionHandler: @escaping () -> Swift.Void)
   public func load(rewarded: Swift.Bool, mraid: Swift.Bool? = nil)
   public func show()
   @objc deinit

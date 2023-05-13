@@ -10,7 +10,7 @@
 		</data>
 		<key>Headers/ADNetworkSDK-Swift.h</key>
 		<data>
-		3fCKm5TExwC/uwLeXcBtmBQcT14=
+		P/ssg2AxDiVKk3oJ20Hu5qA/7Z4=
 		</data>
 		<key>Headers/ADNetworkSDK.h</key>
 		<data>
@@ -18,27 +18,27 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		PziU9ssHaETxwOcbgdMcil0upiw=
+		PepRI2UEiiqdNH06bC/Gvaq/u/E=
 		</data>
 		<key>Modules/ADNetworkSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		X10b74ySv+wi5KPkVh2BGPSsDVE=
+		jDAJNw2VsM70qsDKhycIsux8H+U=
 		</data>
 		<key>Modules/ADNetworkSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		/AhFUDvNOmTXE1HNF/G9I/eZPQo=
+		cYPs37hhSheCZlsqd6MeYPciDRE=
 		</data>
 		<key>Modules/ADNetworkSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		FohEi+ZPfGplHvAC6hRby67h8/w=
+		HFOtfsSIUiE0Bi0UKcfHQ4Qs7+0=
 		</data>
 		<key>Modules/ADNetworkSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		/AhFUDvNOmTXE1HNF/G9I/eZPQo=
+		cYPs37hhSheCZlsqd6MeYPciDRE=
 		</data>
 		<key>Modules/ADNetworkSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		HFnMLy+0iclkzB9hSvoQu3/PrL8=
+		TyO6msJfFn82BhVyg2tNYTRPDhg=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -140,7 +140,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			8vj/14sJfBLpTKsJHZJEB4p/jMMizzZ/qkR7k2bi2EU=
+			vju+tF4/rGbPbUXoLy7fZxd4RNJ5BC690y5JhV6Pkn4=
 			</data>
 		</dict>
 		<key>Headers/ADNetworkSDK.h</key>
@@ -154,35 +154,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			uMkDoZN7SFJBJJDE9pY7WCPGqvu1eamdDjZ2eFjBI/4=
+			YJ2xg+ZFvKIxM3TiOC8hndeatqH+kU/YSFek0J9zE/E=
 			</data>
 		</dict>
 		<key>Modules/ADNetworkSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			nMwe87CV5sBcwDoV5VJ3gdHDOMr8X9GaWw0J0pyUbJM=
+			SPHvuR26S//t9dGudZbwSJc2M/+jZlJp9A7Axo4i9uk=
 			</data>
 		</dict>
 		<key>Modules/ADNetworkSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7lUOe6k9YXr047G4dDeyacTPS2LzIteSK2AiPYJDTlc=
+			ez0gvau1q8aFTtoyCj/YjB+MI5WbayORcCP9+sH1NXY=
 			</data>
 		</dict>
 		<key>Modules/ADNetworkSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			nMwe87CV5sBcwDoV5VJ3gdHDOMr8X9GaWw0J0pyUbJM=
+			SPHvuR26S//t9dGudZbwSJc2M/+jZlJp9A7Axo4i9uk=
 			</data>
 		</dict>
 		<key>Modules/ADNetworkSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			XptcnZQuzAzwVdzN0AAOwRoQ7P46DHyM1k9uS0WiWRI=
+			OW+2mQ5KaPXeFSzjZCigEJBSXe5RwYK6bOXuc04sOjM=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
