@@ -289,6 +289,7 @@ SWIFT_CLASS("_TtC12ADNetworkSDK12ADNetworkSDK")
 @interface ADNetworkSDK : NSObject
 @property (nonatomic, weak) id <ADNetworkSDKDelegate> _Nullable delegate;
 @property (nonatomic, copy) NSString * _Nullable key;
+@property (nonatomic) BOOL debug;
 SWIFT_CLASS_PROPERTY(@property (nonatomic, class, strong) ADNetworkSDK * _Nonnull shared;)
 + (ADNetworkSDK * _Nonnull)shared SWIFT_WARN_UNUSED_RESULT;
 + (void)setShared:(ADNetworkSDK * _Nonnull)value;

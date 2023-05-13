@@ -27,6 +27,10 @@ import _StringProcessing
 @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers @objc public class ADNetworkSDK : ObjectiveC.NSObject {
   @objc weak public var delegate: (any ADNetworkSDKDelegate)?
   @objc public var key: Swift.String?
+  @objc public var debug: Swift.Bool {
+    @objc get
+    @objc set
+  }
   @objc public static var shared: ADNetworkSDK
   @objc public func setupWithKey(_ key: Swift.String)
   @objc public func version() -> Swift.String
