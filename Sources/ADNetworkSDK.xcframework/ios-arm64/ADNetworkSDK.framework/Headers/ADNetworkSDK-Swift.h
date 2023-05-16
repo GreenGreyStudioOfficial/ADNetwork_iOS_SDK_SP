@@ -288,14 +288,13 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 SWIFT_CLASS("_TtC12ADNetworkSDK12ADNetworkSDK")
 @interface ADNetworkSDK : NSObject
 @property (nonatomic, weak) id <ADNetworkSDKDelegate> _Nullable delegate;
-@property (nonatomic, copy) NSString * _Nullable key;
 @property (nonatomic) BOOL debug;
 SWIFT_CLASS_PROPERTY(@property (nonatomic, class, strong) ADNetworkSDK * _Nonnull shared;)
 + (ADNetworkSDK * _Nonnull)shared SWIFT_WARN_UNUSED_RESULT;
 + (void)setShared:(ADNetworkSDK * _Nonnull)value;
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
 + (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
-- (void)setupWithKey:(NSString * _Nonnull)key;
+- (void)setupWithKey:(NSString * _Nonnull)key delegate:(id <ADNetworkSDKDelegate> _Nonnull)delegate;
 - (NSString * _Nonnull)version SWIFT_WARN_UNUSED_RESULT;
 - (void)resetWithCompletionHandler:(void (^ _Nonnull)(void))completionHandler;
 - (void)loadAdWithRewarded:(BOOL)rewarded;

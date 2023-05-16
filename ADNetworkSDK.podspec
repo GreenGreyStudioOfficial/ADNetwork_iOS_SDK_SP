@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'ADNetworkSDK'
-  s.version          = '1.0.2'
+  s.version          = '1.0.4'
   s.summary          = 'Mobidriven SDK'
 
   s.homepage         = 'https://github.com/GreenGreyStudioOfficial/ADNetwork_iOS_SDK_SP'

@@ -27,13 +27,12 @@ import _StringProcessing
 }
 @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers @objc public class ADNetworkSDK : ObjectiveC.NSObject {
   @objc weak public var delegate: (any ADNetworkSDK.ADNetworkSDKDelegate)?
-  @objc public var key: Swift.String?
   @objc public var debug: Swift.Bool {
     @objc get
     @objc set
   }
   @objc public static var shared: ADNetworkSDK.ADNetworkSDK
-  @objc public func setupWithKey(_ key: Swift.String)
+  @objc public func setupWithKey(_ key: Swift.String, delegate: any ADNetworkSDK.ADNetworkSDKDelegate)
   @objc public func version() -> Swift.String
   @objc public func reset(completionHandler: @escaping () -> Swift.Void)
   @objc public func loadAd(rewarded: Swift.Bool)
