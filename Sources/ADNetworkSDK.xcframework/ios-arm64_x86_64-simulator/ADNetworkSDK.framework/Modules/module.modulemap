@@ -1,7 +1,7 @@
 framework module ADNetworkSDK {
   umbrella header "ADNetworkSDK.h"
-
   export *
+
   module * { export * }
 }
 

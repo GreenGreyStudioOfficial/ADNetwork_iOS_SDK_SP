@@ -10,7 +10,7 @@
 		</data>
 		<key>Headers/ADNetworkSDK-Swift.h</key>
 		<data>
-		tEK2dCAUWlY7frVOCuTd/8HrMhQ=
+		x3SiphD8BIdS1v5b09FaifpDPeE=
 		</data>
 		<key>Headers/ADNetworkSDK.h</key>
 		<data>
@@ -18,55 +18,71 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		awLqi0B+tUpXAAkC9x4YWsUUfPM=
+		oDYq54jbSOCFaz1iO3+YlWVqqPE=
 		</data>
 		<key>Modules/ADNetworkSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		qBcxglakhvzNPmyvuncxFGPtD/A=
+		+c8yvnRZcn+ookNE8YUXYJ57+Xo=
 		</data>
 		<key>Modules/ADNetworkSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		kN3wAM6qSJkZ/eljLFVGkO/gNCo=
+		SyrDEFZehr4gGFFAbq+dExUsomg=
 		</data>
 		<key>Modules/ADNetworkSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		u/1LsJeTrlPooF7bdJqlo0SdtBo=
+		QvVNijN1BQn4CS8rUpJzciiTq34=
 		</data>
 		<key>Modules/ADNetworkSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		kN3wAM6qSJkZ/eljLFVGkO/gNCo=
+		SyrDEFZehr4gGFFAbq+dExUsomg=
 		</data>
 		<key>Modules/ADNetworkSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		BBEwCY9FoLcQzYmTjpDu03tfSlw=
+		U3mO5YonariA4cUyS7HnGwBy+/E=
 		</data>
 		<key>Modules/ADNetworkSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		qBcxglakhvzNPmyvuncxFGPtD/A=
+		+c8yvnRZcn+ookNE8YUXYJ57+Xo=
 		</data>
 		<key>Modules/ADNetworkSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		j/FA/mblEszG+NEyuv6L6l+GTfs=
+		+8piDyo8e3Jy45GXFgvTuzOzvG8=
 		</data>
 		<key>Modules/ADNetworkSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		v8x9Iom2CsnwbRaSFinb32IPGYI=
+		1Ne3/QCHamVFnkxUQiuz++7su8g=
 		</data>
 		<key>Modules/ADNetworkSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		j/FA/mblEszG+NEyuv6L6l+GTfs=
+		+8piDyo8e3Jy45GXFgvTuzOzvG8=
 		</data>
 		<key>Modules/ADNetworkSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		wZbwouM3gYoje4bYhXozBDeI8xk=
+		/ocu8NYiAaHQt8qDY2pz8EiCejI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		syXTbv5gd53jryIqXSqXBooKXX8=
+		hPcsX4jLJdRrqkP7BUwIPo7BDzI=
+		</data>
+		<key>banner-320x50.json</key>
+		<data>
+		G2KcnRUd9osEA5+xTO1MoIroFFw=
+		</data>
+		<key>banner-instl-320x480.json</key>
+		<data>
+		P3h9WJLEgN7/3J7zuEvuZZNSuJg=
+		</data>
+		<key>banner-instl-320x480_2.json</key>
+		<data>
+		z0BIEBsAfnL+QNIJ/oGCK8w3nCI=
 		</data>
 		<key>call.png</key>
 		<data>
 		8uG0LvlhP5816UnJYYGPzhIV0DI=
+		</data>
+		<key>close-round.png</key>
+		<data>
+		hJH97bzM6oy5PjEP8bEj8gPkQU4=
 		</data>
 		<key>close.png</key>
 		<data>
@@ -105,6 +121,10 @@
 		<data>
 		HoF/bhBSyzuxE5DQblX/RZ7vJHM=
 		</data>
+		<key>index.html</key>
+		<data>
+		xTZJNRdlmmaCzw2jbQxhgWncqU0=
+		</data>
 		<key>info.png</key>
 		<data>
 		9zNfG7QyavDzMVKGlMtp5SC5Rgk=
@@ -125,6 +145,14 @@
 		<data>
 		Jeb2vaI7cgipqC6F8gkUc4VYfIY=
 		</data>
+		<key>promo.css</key>
+		<data>
+		KXDBqlz8AMBJiOeI2bWj5vY8zsE=
+		</data>
+		<key>promo.js</key>
+		<data>
+		qk744/rmEqaevdIH0U1+QgGTMmQ=
+		</data>
 		<key>ru.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
@@ -137,6 +165,14 @@
 		<key>swipe.png</key>
 		<data>
 		cgqSPt7/pfC0KP3s3AaNPW7+nOs=
+		</data>
+		<key>video-instl.json</key>
+		<data>
+		/vf0QvMPuPLG0CHmK7cuGnx+lus=
+		</data>
+		<key>video-instl_2.json</key>
+		<data>
+		l2fSmlE1b7ydRUEwE0s67DfmvGU=
 		</data>
 		<key>volume-off.png</key>
 		<data>
@@ -160,7 +196,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			7xqbMNmz1bzyEmhs5/JNqM8p6Ii+PDVb7CfCJZn9BsA=
+			9lKVBNW+jbzlOLNO0JrLSLEtQyoSOSyezuhrXa+eqQM=
 			</data>
 		</dict>
 		<key>Headers/ADNetworkSDK.h</key>
@@ -174,77 +210,98 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			vvFjh3nz7SxY3ERlkRHV+UUYBu4NqpwgYLUq7U9AbHM=
+			juWj7vP2fwI/SXPiWMQDonQxrykUllR6EWwHE9CoML8=
 			</data>
 		</dict>
 		<key>Modules/ADNetworkSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			NocGGlLbpklaetzYxJy8AbDzgP572+ibe4PSKaHnGig=
+			VGWcrwYWMqbPSoZzhpVQPKxYz1I57YC7qAnXzhbAhoE=
 			</data>
 		</dict>
 		<key>Modules/ADNetworkSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			iO0F711YHKDVGlwiw/Mm2UphGnYrJr4w3NgN/sFdpx4=
+			XeHDDxAY68djh+CiCSNShVh71CEjCu+yGsmLrW/2hPE=
 			</data>
 		</dict>
 		<key>Modules/ADNetworkSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			NocGGlLbpklaetzYxJy8AbDzgP572+ibe4PSKaHnGig=
+			VGWcrwYWMqbPSoZzhpVQPKxYz1I57YC7qAnXzhbAhoE=
 			</data>
 		</dict>
 		<key>Modules/ADNetworkSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6t3gxsN5IUqR+/ZQFXi1/VCKkACy46KMoVdDhQpb1QE=
+			bCs02HLyHErV5vJOsF+f/9HiIJIektCmfKPW/GuJF9Q=
 			</data>
 		</dict>
 		<key>Modules/ADNetworkSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vvFjh3nz7SxY3ERlkRHV+UUYBu4NqpwgYLUq7U9AbHM=
+			juWj7vP2fwI/SXPiWMQDonQxrykUllR6EWwHE9CoML8=
 			</data>
 		</dict>
 		<key>Modules/ADNetworkSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zUIpimUpEcjsS4KgoDd7XxqU9bEoWrPEtjrkTxp4W8Q=
+			gr7V6hVYj2kK1hr3MIyJsB5CVvxa2mU55bMY+a4RR80=
 			</data>
 		</dict>
 		<key>Modules/ADNetworkSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			FYdb9ALhgoJnu6JckwVWXfERAZvWiwID/GKKjsR/Voo=
+			EgBgXLPyoHncvnypcUTQxqzWIgvbhaONZsuWjIDq4VI=
 			</data>
 		</dict>
 		<key>Modules/ADNetworkSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zUIpimUpEcjsS4KgoDd7XxqU9bEoWrPEtjrkTxp4W8Q=
+			gr7V6hVYj2kK1hr3MIyJsB5CVvxa2mU55bMY+a4RR80=
 			</data>
 		</dict>
 		<key>Modules/ADNetworkSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			MSJJAo/ALyaGgU9S9wWJmhw73Mdxhj8AU2BiA1ReaC8=
+			DfnhD7kopN4EONGwv87hoojpmZlUuDOZTxJ98PlihTs=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			rNHFNtbN5v4RfYRgqShQ+gRFKK1hk11nQ7Uhc9XR/UQ=
+			3VK+KjXgJw8YTJyVvWPhVSr51aQiWX1iC0HUHcZb9gM=
+			</data>
+		</dict>
+		<key>banner-320x50.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ErTi5+MB1BzrFxxE9dfw2vLtpi1TtKjq1Lek/58BgHk=
+			</data>
+		</dict>
+		<key>banner-instl-320x480.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			3RiJZv5D5dQ+DxGOL4dXj47TRs05XrHAUKssuUsklH0=
+			</data>
+		</dict>
+		<key>banner-instl-320x480_2.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			rUeQyDoTXhGLYzCzkHVyoJ++HAtuPxwwDaOtCqF7PrI=
 			</data>
 		</dict>
 		<key>call.png</key>
@@ -252,6 +309,13 @@
 			<key>hash2</key>
 			<data>
 			HbIJL7uRaFcoUxR50whtR/N6/YoR1runE9DLt0h5JVQ=
+			</data>
+		</dict>
+		<key>close-round.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			CRqnhtPR9KVSX28VGZi4KMsu/jKuKt5zjyU7Vct/z+U=
 			</data>
 		</dict>
 		<key>close.png</key>
@@ -312,6 +376,13 @@
 			BBbeSiwnDwIHWeD8Dy1lRbzWnSiP6PnjXQZMWGcI/PE=
 			</data>
 		</dict>
+		<key>index.html</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			8ktdf5t7Rly4RGiZpsOJ6DzA01pwK9ZRrWvsbSKyXWI=
+			</data>
+		</dict>
 		<key>info.png</key>
 		<dict>
 			<key>hash2</key>
@@ -347,6 +418,20 @@
 			pE5iNT+1RfTIu75ksMZXB1++tqHuingQc1KvjVLDaMs=
 			</data>
 		</dict>
+		<key>promo.css</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			F8CYKYYdNXACtNXF/EcNHpLdvmpUw6JGRDH96ALnqdc=
+			</data>
+		</dict>
+		<key>promo.js</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			CBT5p5zxgZOV/FtKFowjSGniBnmGNN0wDwA7i6+BeuI=
+			</data>
+		</dict>
 		<key>ru.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash2</key>
@@ -361,6 +446,20 @@
 			<key>hash2</key>
 			<data>
 			6k8x+OzJdGSLbAy/+gzN+Z7zU42Ow54lV3etJfRpE9w=
+			</data>
+		</dict>
+		<key>video-instl.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			BpUBtODGF9T29FkLL7VbD5kdLGlivvfMGJsX5vSjbT4=
+			</data>
+		</dict>
+		<key>video-instl_2.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			10CwrV4Btg7SSLVlrxMto2nUtPAm0qVIdlLl+eihHwg=
 			</data>
 		</dict>
 		<key>volume-off.png</key>

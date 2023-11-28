@@ -10,7 +10,7 @@
 		</data>
 		<key>Headers/ADNetworkSDK-Swift.h</key>
 		<data>
-		D2rKGAaFttS1VnBGg6Dadw15tyQ=
+		UCsA8a8z3Vy7pAQBinmDn34+fRs=
 		</data>
 		<key>Headers/ADNetworkSDK.h</key>
 		<data>
@@ -18,35 +18,51 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		PepRI2UEiiqdNH06bC/Gvaq/u/E=
+		4r9UTD0qL7EIKVbT20FyuyGTch0=
 		</data>
 		<key>Modules/ADNetworkSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		qBcxglakhvzNPmyvuncxFGPtD/A=
+		+c8yvnRZcn+ookNE8YUXYJ57+Xo=
 		</data>
 		<key>Modules/ADNetworkSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		O+yIsc/zrsymhRcwzNEaQmxJQRE=
+		5zviYhETINNehWDy4cUMXATwbOA=
 		</data>
 		<key>Modules/ADNetworkSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		HFOtfsSIUiE0Bi0UKcfHQ4Qs7+0=
+		m0izF9WNrragrvJ4VnPXLw/hm08=
 		</data>
 		<key>Modules/ADNetworkSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		O+yIsc/zrsymhRcwzNEaQmxJQRE=
+		5zviYhETINNehWDy4cUMXATwbOA=
 		</data>
 		<key>Modules/ADNetworkSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		wAepScPOghvvwVmZCWxtc4Z4YKA=
+		UBADJ2DwUlqCblEC65MsEtwVUBw=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		syXTbv5gd53jryIqXSqXBooKXX8=
+		hPcsX4jLJdRrqkP7BUwIPo7BDzI=
+		</data>
+		<key>banner-320x50.json</key>
+		<data>
+		G2KcnRUd9osEA5+xTO1MoIroFFw=
+		</data>
+		<key>banner-instl-320x480.json</key>
+		<data>
+		P3h9WJLEgN7/3J7zuEvuZZNSuJg=
+		</data>
+		<key>banner-instl-320x480_2.json</key>
+		<data>
+		z0BIEBsAfnL+QNIJ/oGCK8w3nCI=
 		</data>
 		<key>call.png</key>
 		<data>
 		8uG0LvlhP5816UnJYYGPzhIV0DI=
+		</data>
+		<key>close-round.png</key>
+		<data>
+		hJH97bzM6oy5PjEP8bEj8gPkQU4=
 		</data>
 		<key>close.png</key>
 		<data>
@@ -85,6 +101,10 @@
 		<data>
 		HoF/bhBSyzuxE5DQblX/RZ7vJHM=
 		</data>
+		<key>index.html</key>
+		<data>
+		xTZJNRdlmmaCzw2jbQxhgWncqU0=
+		</data>
 		<key>info.png</key>
 		<data>
 		9zNfG7QyavDzMVKGlMtp5SC5Rgk=
@@ -105,6 +125,14 @@
 		<data>
 		Jeb2vaI7cgipqC6F8gkUc4VYfIY=
 		</data>
+		<key>promo.css</key>
+		<data>
+		KXDBqlz8AMBJiOeI2bWj5vY8zsE=
+		</data>
+		<key>promo.js</key>
+		<data>
+		qk744/rmEqaevdIH0U1+QgGTMmQ=
+		</data>
 		<key>ru.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
@@ -117,6 +145,14 @@
 		<key>swipe.png</key>
 		<data>
 		cgqSPt7/pfC0KP3s3AaNPW7+nOs=
+		</data>
+		<key>video-instl.json</key>
+		<data>
+		/vf0QvMPuPLG0CHmK7cuGnx+lus=
+		</data>
+		<key>video-instl_2.json</key>
+		<data>
+		l2fSmlE1b7ydRUEwE0s67DfmvGU=
 		</data>
 		<key>volume-off.png</key>
 		<data>
@@ -140,7 +176,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Vzb5PDBhPSOzu0ZBvAchYyU54xj5NqrRDOiNgrcwrZ4=
+			kZcXdZlD+m8Zac1lRdVV5Z8oNtxq56/aJU5AbfCpbMQ=
 			</data>
 		</dict>
 		<key>Headers/ADNetworkSDK.h</key>
@@ -154,42 +190,63 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			vvFjh3nz7SxY3ERlkRHV+UUYBu4NqpwgYLUq7U9AbHM=
+			juWj7vP2fwI/SXPiWMQDonQxrykUllR6EWwHE9CoML8=
 			</data>
 		</dict>
 		<key>Modules/ADNetworkSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pS2Lf0mNHoADSE6TGFuTaTcxMgGlZ1P0p0hdLKQrYIQ=
+			F00AgiTZaZCc5NvVDQyn3vec/9l9hb2K35qApXkWWzM=
 			</data>
 		</dict>
 		<key>Modules/ADNetworkSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ez0gvau1q8aFTtoyCj/YjB+MI5WbayORcCP9+sH1NXY=
+			bka13yrDwldgELxS7tkiGMKpuiuiO79A0MczWnzL2aI=
 			</data>
 		</dict>
 		<key>Modules/ADNetworkSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pS2Lf0mNHoADSE6TGFuTaTcxMgGlZ1P0p0hdLKQrYIQ=
+			F00AgiTZaZCc5NvVDQyn3vec/9l9hb2K35qApXkWWzM=
 			</data>
 		</dict>
 		<key>Modules/ADNetworkSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Y9Od+CiHgcE7n8hQkw3dVqzZz/QTndnsd4vEi5Yo0f4=
+			frdzBPyah4NiYuQ7LMPW44Kz68rXzNuqIpakDFRB2Aw=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			rNHFNtbN5v4RfYRgqShQ+gRFKK1hk11nQ7Uhc9XR/UQ=
+			3VK+KjXgJw8YTJyVvWPhVSr51aQiWX1iC0HUHcZb9gM=
+			</data>
+		</dict>
+		<key>banner-320x50.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ErTi5+MB1BzrFxxE9dfw2vLtpi1TtKjq1Lek/58BgHk=
+			</data>
+		</dict>
+		<key>banner-instl-320x480.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			3RiJZv5D5dQ+DxGOL4dXj47TRs05XrHAUKssuUsklH0=
+			</data>
+		</dict>
+		<key>banner-instl-320x480_2.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			rUeQyDoTXhGLYzCzkHVyoJ++HAtuPxwwDaOtCqF7PrI=
 			</data>
 		</dict>
 		<key>call.png</key>
@@ -197,6 +254,13 @@
 			<key>hash2</key>
 			<data>
 			HbIJL7uRaFcoUxR50whtR/N6/YoR1runE9DLt0h5JVQ=
+			</data>
+		</dict>
+		<key>close-round.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			CRqnhtPR9KVSX28VGZi4KMsu/jKuKt5zjyU7Vct/z+U=
 			</data>
 		</dict>
 		<key>close.png</key>
@@ -257,6 +321,13 @@
 			BBbeSiwnDwIHWeD8Dy1lRbzWnSiP6PnjXQZMWGcI/PE=
 			</data>
 		</dict>
+		<key>index.html</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			8ktdf5t7Rly4RGiZpsOJ6DzA01pwK9ZRrWvsbSKyXWI=
+			</data>
+		</dict>
 		<key>info.png</key>
 		<dict>
 			<key>hash2</key>
@@ -292,6 +363,20 @@
 			pE5iNT+1RfTIu75ksMZXB1++tqHuingQc1KvjVLDaMs=
 			</data>
 		</dict>
+		<key>promo.css</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			F8CYKYYdNXACtNXF/EcNHpLdvmpUw6JGRDH96ALnqdc=
+			</data>
+		</dict>
+		<key>promo.js</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			CBT5p5zxgZOV/FtKFowjSGniBnmGNN0wDwA7i6+BeuI=
+			</data>
+		</dict>
 		<key>ru.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash2</key>
@@ -306,6 +391,20 @@
 			<key>hash2</key>
 			<data>
 			6k8x+OzJdGSLbAy/+gzN+Z7zU42Ow54lV3etJfRpE9w=
+			</data>
+		</dict>
+		<key>video-instl.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			BpUBtODGF9T29FkLL7VbD5kdLGlivvfMGJsX5vSjbT4=
+			</data>
+		</dict>
+		<key>video-instl_2.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			10CwrV4Btg7SSLVlrxMto2nUtPAm0qVIdlLl+eihHwg=
 			</data>
 		</dict>
 		<key>volume-off.png</key>
