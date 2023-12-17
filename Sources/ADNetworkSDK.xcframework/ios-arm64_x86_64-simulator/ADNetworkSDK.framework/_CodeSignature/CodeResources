@@ -18,11 +18,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		oDYq54jbSOCFaz1iO3+YlWVqqPE=
+		y+QmGOQHn5GPydfzdDyl0hx3yFg=
 		</data>
 		<key>Modules/ADNetworkSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		+c8yvnRZcn+ookNE8YUXYJ57+Xo=
+		uLpSoSLRyBc+cCXZnXiN1t0VmDw=
 		</data>
 		<key>Modules/ADNetworkSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -38,11 +38,11 @@
 		</data>
 		<key>Modules/ADNetworkSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		U3mO5YonariA4cUyS7HnGwBy+/E=
+		6RY0n0jy+WJm1VF2K78plDL3KOA=
 		</data>
 		<key>Modules/ADNetworkSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		+c8yvnRZcn+ookNE8YUXYJ57+Xo=
+		uLpSoSLRyBc+cCXZnXiN1t0VmDw=
 		</data>
 		<key>Modules/ADNetworkSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -58,7 +58,7 @@
 		</data>
 		<key>Modules/ADNetworkSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		/ocu8NYiAaHQt8qDY2pz8EiCejI=
+		fMvvt7HzVr+NAN0mLklg8/s31E0=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -210,7 +210,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			juWj7vP2fwI/SXPiWMQDonQxrykUllR6EWwHE9CoML8=
+			g4yXR0N6fUdNsyNZhku+shCcrDHdMQ3jvhvQLto+RrI=
 			</data>
 		</dict>
 		<key>Modules/ADNetworkSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -238,14 +238,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			bCs02HLyHErV5vJOsF+f/9HiIJIektCmfKPW/GuJF9Q=
+			RHzlB0GEjfw76CCwN0nhNt2HZsHKDWA3M77koYMW46A=
 			</data>
 		</dict>
 		<key>Modules/ADNetworkSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			juWj7vP2fwI/SXPiWMQDonQxrykUllR6EWwHE9CoML8=
+			g4yXR0N6fUdNsyNZhku+shCcrDHdMQ3jvhvQLto+RrI=
 			</data>
 		</dict>
 		<key>Modules/ADNetworkSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -273,7 +273,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			DfnhD7kopN4EONGwv87hoojpmZlUuDOZTxJ98PlihTs=
+			6BhtZtpmadDX0WYRujvtYulfT09WrppGYI6uePFqrzY=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
