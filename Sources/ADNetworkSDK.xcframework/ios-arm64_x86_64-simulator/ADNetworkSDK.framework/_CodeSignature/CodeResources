@@ -18,11 +18,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		y+QmGOQHn5GPydfzdDyl0hx3yFg=
+		qdb+3w1qdKIFLOFqhdEJIwyjHaQ=
 		</data>
 		<key>Modules/ADNetworkSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		QWhOE9MFbiaL1WLDHf4mAwNBuaY=
+		eIRSAts0aoWtrISnoK7GB9MPEUM=
 		</data>
 		<key>Modules/ADNetworkSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -38,11 +38,11 @@
 		</data>
 		<key>Modules/ADNetworkSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		cRr5T2CnzHkCJPKr0bSnj2g9POg=
+		QcariQvyKxvOBhNcBSU6bSBuy7E=
 		</data>
 		<key>Modules/ADNetworkSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		QWhOE9MFbiaL1WLDHf4mAwNBuaY=
+		eIRSAts0aoWtrISnoK7GB9MPEUM=
 		</data>
 		<key>Modules/ADNetworkSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -58,7 +58,7 @@
 		</data>
 		<key>Modules/ADNetworkSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		xZBCnOnEA993KYQcwv7gW5Y1Wws=
+		PEtxRw5guQ66OSK3Je811W37bq4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -210,7 +210,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			0OLl+FY/tYqcnynJdyHY7DAkeIfKOQMgrDBBxarjruU=
+			uXb541vu/Umu5STUnXztioU4Pxzxjmkj5wxWJ02/WXc=
 			</data>
 		</dict>
 		<key>Modules/ADNetworkSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -238,14 +238,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1BJOODcUk6Nqe7vePc7OW5m5tc33KiN9G7RrcbUYtnc=
+			2VqLQROXXJkfR3YI5aY/gS7XP01jQFXy9kunIakbAss=
 			</data>
 		</dict>
 		<key>Modules/ADNetworkSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			0OLl+FY/tYqcnynJdyHY7DAkeIfKOQMgrDBBxarjruU=
+			uXb541vu/Umu5STUnXztioU4Pxzxjmkj5wxWJ02/WXc=
 			</data>
 		</dict>
 		<key>Modules/ADNetworkSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -273,7 +273,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			4R71WQvpzDQk61pnvm50PBbcYbNQmV/PS9FcAvwwXvI=
+			WR31Ydn7HMHHtdWcUiQrhcYSTbBk/hPOERd3AhKKksU=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
