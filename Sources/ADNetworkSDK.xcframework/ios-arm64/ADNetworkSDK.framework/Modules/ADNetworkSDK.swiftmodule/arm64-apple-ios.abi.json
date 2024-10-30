@@ -40,6 +40,16 @@
       },
       {
         "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "ADNetworkSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -1698,547 +1708,610 @@
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADPlayerViewController.swift",
-      "kind": "StringLiteral",
-      "offset": 1446,
-      "length": 17,
-      "value": "\"DecimaProALight\""
-    },
-    {
-      "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADPlayerViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1471,
-      "length": 2,
-      "value": "20"
+      "kind": "FloatLiteral",
+      "offset": 1439,
+      "length": 4,
+      "value": "0.85"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADPlayerViewController.swift",
       "kind": "StringLiteral",
-      "offset": 1517,
-      "length": 7,
-      "value": "\"Close\""
-    },
-    {
-      "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADPlayerViewController.swift",
-      "kind": "StringLiteral",
-      "offset": 1535,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADPlayerViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1620,
-      "length": 1,
-      "value": "8"
-    },
-    {
-      "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADPlayerViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1629,
-      "length": 1,
-      "value": "8"
-    },
-    {
-      "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADPlayerViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1640,
-      "length": 1,
-      "value": "8"
-    },
-    {
-      "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADPlayerViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1650,
-      "length": 1,
-      "value": "8"
+      "offset": 1643,
+      "length": 13,
+      "value": "\"close-round\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADPlayerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 1901,
+      "offset": 1990,
       "length": 3,
       "value": "0.1"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADPlayerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 1913,
+      "offset": 2002,
       "length": 4,
       "value": "0.75"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADPlayerViewController.swift",
       "kind": "StringLiteral",
-      "offset": 2016,
+      "offset": 2105,
       "length": 17,
       "value": "\"DecimaProALight\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADPlayerViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2041,
+      "offset": 2130,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADPlayerViewController.swift",
       "kind": "StringLiteral",
-      "offset": 2087,
+      "offset": 2176,
       "length": 16,
       "value": "\"Call to action\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADPlayerViewController.swift",
       "kind": "StringLiteral",
-      "offset": 2114,
+      "offset": 2203,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADPlayerViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2199,
+      "offset": 2288,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADPlayerViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2208,
+      "offset": 2297,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADPlayerViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2219,
+      "offset": 2308,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADPlayerViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2229,
+      "offset": 2318,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADPlayerViewController.swift",
       "kind": "StringLiteral",
-      "offset": 2479,
+      "offset": 2568,
       "length": 11,
       "value": "\"volume-on\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADPlayerViewController.swift",
       "kind": "StringLiteral",
-      "offset": 2828,
+      "offset": 2917,
       "length": 7,
       "value": "\"pause\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADPlayerViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 3412,
+      "offset": 3501,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADPlayerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 4097,
+      "offset": 4554,
       "length": 3,
       "value": "3.0"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADPlayerViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 4143,
+      "offset": 4600,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADPlayerViewController.swift",
       "kind": "StringLiteral",
-      "offset": 4318,
+      "offset": 4775,
       "length": 20,
       "value": "\"Decima Pro A Light\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADPlayerViewController.swift",
       "kind": "StringLiteral",
-      "offset": 4348,
+      "offset": 4805,
       "length": 5,
       "value": "\"otf\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADPlayerViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 4644,
+      "offset": 5101,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADPlayerViewController.swift",
       "kind": "StringLiteral",
-      "offset": 4671,
+      "offset": 5128,
       "length": 122,
       "value": "\"Failed to register font - register graphics font failed - this font may have already been registered in the main bundle.\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADPlayerViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5365,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADPlayerViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5392,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADPlayerViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 4961,
+      "offset": 5414,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADPlayerViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 5442,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADPlayerViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 5603,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADPlayerViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 5069,
+      "offset": 5711,
       "length": 2,
       "value": "30"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADPlayerViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 5137,
+      "offset": 5779,
       "length": 2,
       "value": "30"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADPlayerViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 5231,
+      "offset": 5873,
       "length": 3,
       "value": "-15"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADPlayerViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 5328,
+      "offset": 5970,
       "length": 2,
       "value": "15"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADPlayerViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 5557,
+      "offset": 6199,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADPlayerViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 5670,
+      "offset": 6312,
       "length": 2,
       "value": "30"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADPlayerViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 5743,
+      "offset": 6385,
       "length": 2,
       "value": "30"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADPlayerViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 5842,
+      "offset": 6484,
       "length": 3,
       "value": "-15"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADPlayerViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 5946,
+      "offset": 6588,
       "length": 3,
       "value": "-15"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADPlayerViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 6180,
+      "offset": 6822,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADPlayerViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 6386,
+      "offset": 7028,
       "length": 1,
       "value": "6"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADPlayerViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 6490,
+      "offset": 7132,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADPlayerViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 6600,
+      "offset": 7242,
       "length": 3,
       "value": "-10"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADPlayerViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 6744,
+      "offset": 7377,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADPlayerViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 6872,
+      "offset": 7446,
       "length": 2,
-      "value": "35"
+      "value": "10"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADPlayerViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 6971,
+      "offset": 7451,
+      "length": 2,
+      "value": "30"
+    },
+    {
+      "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADPlayerViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7540,
+      "length": 2,
+      "value": "45"
+    },
+    {
+      "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADPlayerViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7568,
+      "length": 2,
+      "value": "60"
+    },
+    {
+      "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADPlayerViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7632,
+      "length": 2,
+      "value": "30"
+    },
+    {
+      "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADPlayerViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7874,
       "length": 3,
       "value": "-15"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADPlayerViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 7111,
+      "offset": 8176,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADPlayerViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 7680,
+      "offset": 8306,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADPlayerViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8411,
+      "length": 2,
+      "value": "70"
+    },
+    {
+      "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADPlayerViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8593,
+      "length": 2,
+      "value": "15"
+    },
+    {
+      "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADPlayerViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 8721,
+      "length": 10,
+      "value": "\"GG-logo2\""
+    },
+    {
+      "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADPlayerViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 9367,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADPlayerViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 7752,
+      "offset": 9439,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADPlayerViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 8552,
+      "offset": 10239,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADPlayerViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 8673,
+      "offset": 10360,
       "length": 2,
       "value": "50"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADPlayerViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 8750,
+      "offset": 10437,
       "length": 2,
       "value": "50"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADPlayerViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 8861,
+      "offset": 10635,
       "length": 3,
       "value": "-15"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADPlayerViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 8969,
-      "length": 3,
-      "value": "-15"
+      "offset": 11005,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADPlayerViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 11055,
+      "length": 5,
+      "value": "false"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADPlayerViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 9536,
+      "offset": 11389,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADPlayerViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 9854,
+      "offset": 11707,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADPlayerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 9856,
+      "offset": 11709,
       "length": 4,
       "value": "30.0"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADPlayerViewController.swift",
       "kind": "StringLiteral",
-      "offset": 10386,
+      "offset": 12239,
       "length": 6,
       "value": "\"%.2f\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADPlayerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 10445,
+      "offset": 12298,
       "length": 4,
       "value": "0.25"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADPlayerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 10691,
+      "offset": 12544,
       "length": 3,
       "value": "0.5"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADPlayerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 10925,
+      "offset": 12778,
       "length": 4,
       "value": "0.75"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADPlayerViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 11806,
+      "offset": 13659,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADPlayerViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 11865,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADPlayerViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 12272,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADPlayerViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 12542,
+      "offset": 14404,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADPlayerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 12643,
-      "length": 3,
-      "value": "1.0"
-    },
-    {
-      "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADPlayerViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 13284,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADPlayerViewController.swift",
-      "kind": "FloatLiteral",
-      "offset": 13466,
-      "length": 3,
-      "value": "1.0"
-    },
-    {
-      "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADPlayerViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 13485,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADPlayerViewController.swift",
-      "kind": "FloatLiteral",
-      "offset": 13844,
+      "offset": 14505,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADPlayerViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 14201,
+      "offset": 14656,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADPlayerViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 14645,
+      "offset": 15140,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADPlayerViewController.swift",
+      "kind": "FloatLiteral",
+      "offset": 15322,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADPlayerViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 15341,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADPlayerViewController.swift",
+      "kind": "FloatLiteral",
+      "offset": 15700,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADPlayerViewController.swift",
+      "kind": "FloatLiteral",
+      "offset": 16057,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADPlayerViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 16501,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADPlayerViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 14823,
+      "offset": 16679,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADPlayerViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 16855,
+      "length": 6,
+      "value": "\"play\""
+    },
+    {
+      "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADPlayerViewController.swift",
       "kind": "Dictionary",
-      "offset": 15067,
+      "offset": 17124,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADPlayerViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 15271,
+      "offset": 17328,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADPlayerViewController.swift",
       "kind": "StringLiteral",
-      "offset": 15278,
+      "offset": 17335,
       "length": 12,
       "value": "\"volume-off\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADPlayerViewController.swift",
       "kind": "StringLiteral",
-      "offset": 15293,
+      "offset": 17350,
       "length": 11,
       "value": "\"volume-on\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADPlayerViewController.swift",
       "kind": "StringLiteral",
-      "offset": 15775,
+      "offset": 17832,
       "length": 6,
       "value": "\"play\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADPlayerViewController.swift",
       "kind": "StringLiteral",
-      "offset": 16027,
+      "offset": 18084,
       "length": 7,
       "value": "\"pause\""
+    },
+    {
+      "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADPlayerViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 18748,
+      "length": 6,
+      "value": "\"play\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Classes\/ADNetworkMonitor.swift",
       "kind": "BooleanLiteral",
       "offset": 386,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADNavigationController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 373,
       "length": 5,
       "value": "false"
     },
@@ -2287,532 +2360,665 @@
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADWebViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 1469,
+      "offset": 1535,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADWebViewController.swift",
       "kind": "StringLiteral",
-      "offset": 1643,
+      "offset": 1709,
       "length": 13,
       "value": "\"close-round\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADWebViewController.swift",
+      "kind": "FloatLiteral",
+      "offset": 2097,
+      "length": 4,
+      "value": "0.85"
+    },
+    {
+      "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADWebViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 1984,
+      "offset": 2345,
       "length": 2,
       "value": "50"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADWebViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2140,
+      "offset": 2501,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADWebViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2167,
+      "offset": 2528,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADWebViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 2189,
+      "offset": 2550,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADWebViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 2217,
+      "offset": 2578,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADWebViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 2350,
+      "offset": 2711,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADWebViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 2442,
+      "offset": 2803,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADWebViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 3085,
+      "offset": 3446,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADWebViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 3271,
+      "offset": 3632,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADWebViewController.swift",
       "kind": "StringLiteral",
-      "offset": 4455,
+      "offset": 4917,
       "length": 54,
       "value": "\"mraid.setScreenSize(\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADWebViewController.swift",
       "kind": "StringLiteral",
-      "offset": 4491,
+      "offset": 4953,
       "length": 1,
       "value": "\",\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADWebViewController.swift",
       "kind": "StringLiteral",
-      "offset": 4507,
+      "offset": 4969,
       "length": 1,
       "value": "\")\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADWebViewController.swift",
       "kind": "StringLiteral",
-      "offset": 4694,
+      "offset": 5156,
       "length": 38,
       "value": "\"mraid.viewableChange(\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADWebViewController.swift",
       "kind": "StringLiteral",
-      "offset": 4730,
+      "offset": 5192,
       "length": 1,
       "value": "\")\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADWebViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 5245,
+      "offset": 5707,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADWebViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 5528,
+      "offset": 5990,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADWebViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 5854,
+      "offset": 6453,
+      "length": 1,
+      "value": "8"
+    },
+    {
+      "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADWebViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6539,
+      "length": 1,
+      "value": "8"
+    },
+    {
+      "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADWebViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6634,
+      "length": 3,
+      "value": "-30"
+    },
+    {
+      "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADWebViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 7607,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADWebViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 7798,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADWebViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7871,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADWebViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7875,
+      "length": 2,
+      "value": "40"
+    },
+    {
+      "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADWebViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7968,
+      "length": 2,
+      "value": "40"
+    },
+    {
+      "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADWebViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7996,
       "length": 2,
       "value": "70"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADWebViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 6032,
-      "length": 3,
-      "value": "-20"
-    },
-    {
-      "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADWebViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 7090,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADWebViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 7143,
-      "length": 2,
-      "value": "45"
-    },
-    {
-      "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADWebViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 7188,
+      "offset": 8064,
       "length": 2,
       "value": "30"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADWebViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 7438,
+      "offset": 8517,
       "length": 3,
       "value": "-15"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADWebViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 7842,
+      "offset": 8852,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADWebViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 8978,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADWebViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 9091,
+      "length": 2,
+      "value": "70"
+    },
+    {
+      "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADWebViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 9281,
+      "length": 2,
+      "value": "15"
+    },
+    {
+      "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADWebViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 9425,
+      "length": 10,
+      "value": "\"GG-logo2\""
+    },
+    {
+      "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADWebViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 9547,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADWebViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 9678,
+      "length": 2,
+      "value": "10"
+    },
+    {
+      "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADWebViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 9683,
+      "length": 2,
+      "value": "30"
+    },
+    {
+      "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADWebViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 9772,
+      "length": 2,
+      "value": "45"
+    },
+    {
+      "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADWebViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 9800,
+      "length": 2,
+      "value": "60"
+    },
+    {
+      "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADWebViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 10104,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADWebViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 8171,
+      "offset": 10433,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADWebViewController.swift",
       "kind": "StringLiteral",
-      "offset": 8200,
+      "offset": 10462,
       "length": 42,
       "value": "\"mraid.setPlacementType(\"interstitial\")\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADWebViewController.swift",
       "kind": "StringLiteral",
-      "offset": 8276,
+      "offset": 10538,
       "length": 41,
       "value": "\"mraid.setBigScreen(\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADWebViewController.swift",
       "kind": "StringLiteral",
-      "offset": 8315,
+      "offset": 10577,
       "length": 1,
       "value": "\")\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADWebViewController.swift",
       "kind": "StringLiteral",
-      "offset": 8351,
+      "offset": 10613,
       "length": 33,
       "value": "\"mraid.setSupports(\"sdk\",true)\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADWebViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 8409,
+      "offset": 10671,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADWebViewController.swift",
       "kind": "StringLiteral",
-      "offset": 8443,
+      "offset": 10705,
       "length": 37,
       "value": "\"mraid.setRewarded(\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADWebViewController.swift",
       "kind": "StringLiteral",
-      "offset": 8478,
+      "offset": 10740,
       "length": 1,
       "value": "\")\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADWebViewController.swift",
       "kind": "StringLiteral",
-      "offset": 8524,
+      "offset": 10786,
       "length": 42,
       "value": "\"mraid.setSupports(\"storePicture\",true)\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADWebViewController.swift",
       "kind": "StringLiteral",
-      "offset": 8591,
+      "offset": 10853,
       "length": 41,
       "value": "\"mraid.setSupports(\"inlineVideo\",true)\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADWebViewController.swift",
       "kind": "StringLiteral",
-      "offset": 8700,
+      "offset": 10962,
       "length": 8,
       "value": "\"tel:\/\/\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADWebViewController.swift",
       "kind": "StringLiteral",
-      "offset": 8735,
+      "offset": 10997,
       "length": 39,
       "value": "\"mraid.setSupports(\"tel\",\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADWebViewController.swift",
       "kind": "StringLiteral",
-      "offset": 8772,
+      "offset": 11034,
       "length": 1,
       "value": "\")\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADWebViewController.swift",
       "kind": "StringLiteral",
-      "offset": 8808,
+      "offset": 11070,
       "length": 29,
       "value": "\"mraid.setState(\"default\")\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADWebViewController.swift",
       "kind": "StringLiteral",
-      "offset": 8862,
+      "offset": 11124,
       "length": 28,
       "value": "\"mraid.fireEvent(\"ready\")\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADWebViewController.swift",
       "kind": "StringLiteral",
-      "offset": 8953,
+      "offset": 11215,
       "length": 12,
       "value": "\"showMyAd()\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADWebViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 9012,
+      "offset": 11274,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADWebViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 9063,
+      "offset": 11325,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADWebViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 11355,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADWebViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 11427,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADWebViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 11473,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADWebViewController.swift",
       "kind": "Dictionary",
-      "offset": 9336,
+      "offset": 11760,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADWebViewController.swift",
       "kind": "StringLiteral",
-      "offset": 9488,
+      "offset": 11912,
       "length": 8,
       "value": "\"tel:\/\/\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADWebViewController.swift",
       "kind": "StringLiteral",
-      "offset": 9589,
+      "offset": 12013,
       "length": 10,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADWebViewController.swift",
       "kind": "StringLiteral",
-      "offset": 9598,
+      "offset": 12022,
       "length": 9,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADWebViewController.swift",
       "kind": "StringLiteral",
-      "offset": 9634,
+      "offset": 12058,
       "length": 22,
       "value": "\"Error in Making Call\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADWebViewController.swift",
       "kind": "Dictionary",
-      "offset": 9759,
+      "offset": 12183,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADWebViewController.swift",
       "kind": "StringLiteral",
-      "offset": 10322,
+      "offset": 12746,
       "length": 7,
       "value": "\"Saved\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADWebViewController.swift",
       "kind": "StringLiteral",
-      "offset": 10340,
+      "offset": 12764,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADWebViewController.swift",
       "kind": "StringLiteral",
-      "offset": 10372,
+      "offset": 12796,
       "length": 32,
       "value": "\"Promocode image has been saved\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADWebViewController.swift",
       "kind": "StringLiteral",
-      "offset": 10415,
+      "offset": 12839,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADWebViewController.swift",
       "kind": "StringLiteral",
-      "offset": 10496,
+      "offset": 12920,
       "length": 4,
       "value": "\"Ok\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADWebViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 10607,
+      "offset": 13031,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADWebViewController.swift",
       "kind": "StringLiteral",
-      "offset": 11128,
+      "offset": 13552,
       "length": 6,
       "value": "\"type\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADWebViewController.swift",
       "kind": "StringLiteral",
-      "offset": 11209,
+      "offset": 13633,
       "length": 6,
       "value": "\"call\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADWebViewController.swift",
       "kind": "StringLiteral",
-      "offset": 11253,
+      "offset": 13677,
       "length": 7,
       "value": "\"value\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADWebViewController.swift",
       "kind": "StringLiteral",
-      "offset": 11287,
+      "offset": 13711,
       "length": 6,
       "value": "\"save\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADWebViewController.swift",
       "kind": "StringLiteral",
-      "offset": 11331,
+      "offset": 13755,
       "length": 7,
       "value": "\"value\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADWebViewController.swift",
       "kind": "StringLiteral",
-      "offset": 11365,
+      "offset": 13789,
       "length": 7,
       "value": "\"click\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADWebViewController.swift",
       "kind": "StringLiteral",
-      "offset": 11409,
+      "offset": 13833,
       "length": 7,
       "value": "\"value\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADWebViewController.swift",
       "kind": "StringLiteral",
-      "offset": 11443,
+      "offset": 13867,
       "length": 7,
       "value": "\"close\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADWebViewController.swift",
       "kind": "StringLiteral",
-      "offset": 11491,
+      "offset": 13915,
       "length": 8,
       "value": "\"reward\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADWebViewController.swift",
       "kind": "StringLiteral",
-      "offset": 11539,
+      "offset": 13963,
       "length": 7,
       "value": "\"value\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADWebViewController.swift",
       "kind": "StringLiteral",
-      "offset": 11642,
+      "offset": 14066,
       "length": 14,
       "value": "\"contentReady\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADWebViewController.swift",
       "kind": "StringLiteral",
-      "offset": 11693,
+      "offset": 14117,
       "length": 7,
       "value": "\"value\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADWebViewController.swift",
       "kind": "StringLiteral",
-      "offset": 12209,
+      "offset": 14633,
       "length": 7,
       "value": "\"index\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADWebViewController.swift",
       "kind": "StringLiteral",
-      "offset": 12233,
+      "offset": 14657,
       "length": 6,
       "value": "\"html\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADWebViewController.swift",
       "kind": "StringLiteral",
-      "offset": 12273,
+      "offset": 14697,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADWebViewController.swift",
       "kind": "StringLiteral",
-      "offset": 12461,
+      "offset": 14885,
       "length": 35,
       "value": "\"<script type=\"text\/javascript\">\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADWebViewController.swift",
       "kind": "StringLiteral",
-      "offset": 12616,
+      "offset": 15040,
       "length": 36,
       "value": "\"<script src=\"mraid.js\"><\/script>\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADWebViewController.swift",
       "kind": "StringLiteral",
-      "offset": 12841,
+      "offset": 15265,
       "length": 65,
       "value": "\"<link rel=\"stylesheet\" href=\"promo.css\" type=\"text\/css\"\/>\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADWebViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 13047,
+      "offset": 15471,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADWebViewController.swift",
       "kind": "StringLiteral",
-      "offset": 13139,
+      "offset": 15563,
       "length": 30,
       "value": "\"contents could not be loaded\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Views\/ADWebViewController.swift",
       "kind": "StringLiteral",
-      "offset": 13196,
+      "offset": 15620,
       "length": 2,
       "value": "\"\""
     },
@@ -3351,441 +3557,420 @@
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/ADNetworkSDK.swift",
       "kind": "StringLiteral",
-      "offset": 7257,
-      "length": 17,
-      "value": "\"Collected data:\""
-    },
-    {
-      "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/ADNetworkSDK.swift",
-      "kind": "StringLiteral",
-      "offset": 7561,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/ADNetworkSDK.swift",
-      "kind": "StringLiteral",
-      "offset": 7607,
+      "offset": 7842,
       "length": 20,
       "value": "\"Requesting ad data\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/ADNetworkSDK.swift",
       "kind": "StringLiteral",
-      "offset": 7818,
+      "offset": 8053,
       "length": 5,
       "value": "\"204\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/ADNetworkSDK.swift",
       "kind": "StringLiteral",
-      "offset": 7880,
+      "offset": 8115,
       "length": 35,
       "value": "\"No ads to download. Error: \""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/ADNetworkSDK.swift",
       "kind": "StringLiteral",
-      "offset": 7914,
+      "offset": 8149,
       "length": 18,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/ADNetworkSDK.swift",
       "kind": "StringLiteral",
-      "offset": 8407,
+      "offset": 8642,
       "length": 35,
       "value": "\"Failed to get data. Error: \""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/ADNetworkSDK.swift",
       "kind": "StringLiteral",
-      "offset": 8441,
+      "offset": 8676,
       "length": 16,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/ADNetworkSDK.swift",
       "kind": "StringLiteral",
-      "offset": 8625,
-      "length": 16,
-      "value": "\"Response data:\""
-    },
-    {
-      "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/ADNetworkSDK.swift",
-      "kind": "StringLiteral",
-      "offset": 9505,
+      "offset": 9742,
       "length": 23,
       "value": "\"Ad received: \""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/ADNetworkSDK.swift",
       "kind": "StringLiteral",
-      "offset": 9527,
+      "offset": 9764,
       "length": 15,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/ADNetworkSDK.swift",
       "kind": "StringLiteral",
-      "offset": 9636,
+      "offset": 9873,
       "length": 7,
       "value": "\"<VAST\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/ADNetworkSDK.swift",
       "kind": "IntegerLiteral",
-      "offset": 9966,
+      "offset": 10203,
       "length": 3,
       "value": "320"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/ADNetworkSDK.swift",
       "kind": "IntegerLiteral",
-      "offset": 9979,
+      "offset": 10216,
       "length": 3,
       "value": "480"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/ADNetworkSDK.swift",
       "kind": "StringLiteral",
-      "offset": 10448,
+      "offset": 10685,
       "length": 52,
       "value": "\"Failed to read data. Error: json data is malformed\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/ADNetworkSDK.swift",
       "kind": "StringLiteral",
-      "offset": 10937,
+      "offset": 11174,
       "length": 60,
       "value": "\"Send request <\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/ADNetworkSDK.swift",
       "kind": "StringLiteral",
-      "offset": 10960,
+      "offset": 11197,
       "length": 1,
       "value": "\"> error: \""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/ADNetworkSDK.swift",
       "kind": "StringLiteral",
-      "offset": 10975,
+      "offset": 11212,
       "length": 1,
       "value": "\". Leave this in cache\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/ADNetworkSDK.swift",
       "kind": "StringLiteral",
-      "offset": 11586,
+      "offset": 11823,
       "length": 56,
       "value": "\"No internet connection. Not trying to download videos.\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/ADNetworkSDK.swift",
       "kind": "StringLiteral",
-      "offset": 11863,
+      "offset": 12100,
       "length": 3,
       "value": "\"\/\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/ADNetworkSDK.swift",
       "kind": "StringLiteral",
-      "offset": 11920,
+      "offset": 12157,
       "length": 38,
       "value": "\"Starting video download \""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/ADNetworkSDK.swift",
       "kind": "StringLiteral",
-      "offset": 11956,
+      "offset": 12193,
       "length": 15,
       "value": "\" \""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/ADNetworkSDK.swift",
       "kind": "StringLiteral",
-      "offset": 12124,
+      "offset": 12361,
       "length": 77,
       "value": "\"Video \""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/ADNetworkSDK.swift",
       "kind": "StringLiteral",
-      "offset": 12142,
+      "offset": 12379,
       "length": 3,
       "value": "\" has already been downloaded. Don't try to download again.\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/ADNetworkSDK.swift",
       "kind": "BooleanLiteral",
-      "offset": 12367,
+      "offset": 12604,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/ADNetworkSDK.swift",
       "kind": "StringLiteral",
-      "offset": 13117,
+      "offset": 13354,
       "length": 24,
       "value": "\"ADPlayerViewController\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/ADNetworkSDK.swift",
       "kind": "IntegerLiteral",
-      "offset": 13291,
+      "offset": 13528,
       "length": 4,
       "value": "2000"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/ADNetworkSDK.swift",
       "kind": "IntegerLiteral",
-      "offset": 13297,
+      "offset": 13534,
       "length": 4,
       "value": "1000"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/ADNetworkSDK.swift",
       "kind": "BooleanLiteral",
-      "offset": 13537,
+      "offset": 13774,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/ADNetworkSDK.swift",
       "kind": "StringLiteral",
-      "offset": 14294,
+      "offset": 14531,
       "length": 17,
       "value": "\"${AUCTION_LOSS}\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/ADNetworkSDK.swift",
       "kind": "BooleanLiteral",
-      "offset": 15178,
+      "offset": 15415,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/ADNetworkSDK.swift",
       "kind": "BooleanLiteral",
-      "offset": 15280,
+      "offset": 15517,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/ADNetworkSDK.swift",
       "kind": "StringLiteral",
-      "offset": 16976,
+      "offset": 17213,
       "length": 67,
       "value": "\"No connection. Store \""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/ADNetworkSDK.swift",
       "kind": "StringLiteral",
-      "offset": 17020,
+      "offset": 17257,
       "length": 5,
       "value": "\" event links in cache.\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/ADNetworkSDK.swift",
       "kind": "StringLiteral",
-      "offset": 17416,
+      "offset": 17653,
       "length": 88,
       "value": "\"Failed to send event. Store \""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/ADNetworkSDK.swift",
       "kind": "StringLiteral",
-      "offset": 17467,
+      "offset": 17704,
       "length": 5,
       "value": "\" event links in cache. Error: \""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/ADNetworkSDK.swift",
       "kind": "StringLiteral",
-      "offset": 17503,
+      "offset": 17740,
       "length": 16,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/ADNetworkSDK.swift",
       "kind": "StringLiteral",
-      "offset": 17672,
+      "offset": 17909,
       "length": 45,
       "value": "\"Event \""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/ADNetworkSDK.swift",
       "kind": "StringLiteral",
-      "offset": 17701,
+      "offset": 17938,
       "length": 4,
       "value": "\" sent to server\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/ADNetworkSDK.swift",
       "kind": "StringLiteral",
-      "offset": 17961,
+      "offset": 18198,
       "length": 5,
       "value": "\"yes\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/ADNetworkSDK.swift",
       "kind": "StringLiteral",
-      "offset": 17969,
+      "offset": 18206,
       "length": 4,
       "value": "\"no\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/ADNetworkSDK.swift",
       "kind": "StringLiteral",
-      "offset": 18007,
+      "offset": 18244,
       "length": 39,
       "value": "\"Internet connection: \""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/ADNetworkSDK.swift",
       "kind": "StringLiteral",
-      "offset": 18045,
+      "offset": 18282,
       "length": 15,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/ADNetworkSDK.swift",
       "kind": "BooleanLiteral",
-      "offset": 18339,
+      "offset": 18576,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/ADNetworkSDK.swift",
       "kind": "BooleanLiteral",
-      "offset": 18378,
+      "offset": 18615,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/ADNetworkSDK.swift",
       "kind": "StringLiteral",
-      "offset": 18896,
+      "offset": 19133,
       "length": 32,
       "value": "\"Failed to collect request data\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/ADNetworkSDK.swift",
       "kind": "StringLiteral",
-      "offset": 19006,
+      "offset": 19243,
       "length": 24,
       "value": "\"Request data collected\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/ADNetworkSDK.swift",
       "kind": "StringLiteral",
-      "offset": 19187,
+      "offset": 19424,
       "length": 52,
       "value": "\"No internet connection. Not trying to request ads.\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/ADNetworkSDK.swift",
       "kind": "StringLiteral",
-      "offset": 19435,
+      "offset": 19672,
       "length": 41,
       "value": "\"Failed to read VAST data. Error: \""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/ADNetworkSDK.swift",
       "kind": "StringLiteral",
-      "offset": 19475,
+      "offset": 19712,
       "length": 16,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/ADNetworkSDK.swift",
       "kind": "IntegerLiteral",
-      "offset": 19791,
+      "offset": 20028,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/ADNetworkSDK.swift",
       "kind": "IntegerLiteral",
-      "offset": 19799,
+      "offset": 20036,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/ADNetworkSDK.swift",
       "kind": "StringLiteral",
-      "offset": 20351,
+      "offset": 20588,
       "length": 54,
       "value": "\"Failed to create folder for request data, id = \""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/ADNetworkSDK.swift",
       "kind": "StringLiteral",
-      "offset": 20404,
+      "offset": 20641,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/ADNetworkSDK.swift",
       "kind": "StringLiteral",
-      "offset": 20668,
+      "offset": 20905,
       "length": 41,
       "value": "\"Failed to save request data, id = \""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/ADNetworkSDK.swift",
       "kind": "StringLiteral",
-      "offset": 20708,
+      "offset": 20945,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/ADNetworkSDK.swift",
       "kind": "StringLiteral",
-      "offset": 20789,
+      "offset": 21026,
       "length": 39,
       "value": "\"Failed to encode request data to JSON\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/ADNetworkSDK.swift",
       "kind": "StringLiteral",
-      "offset": 21450,
+      "offset": 21687,
       "length": 66,
       "value": "\"Failed to load video \""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/ADNetworkSDK.swift",
       "kind": "StringLiteral",
-      "offset": 21500,
+      "offset": 21737,
       "length": 1,
       "value": "\". Error: \""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/ADNetworkSDK.swift",
       "kind": "StringLiteral",
-      "offset": 21515,
+      "offset": 21752,
       "length": 16,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/ADNetworkSDK.swift",
       "kind": "BooleanLiteral",
-      "offset": 22289,
+      "offset": 22526,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/ADNetworkSDK.swift",
       "kind": "StringLiteral",
-      "offset": 22481,
+      "offset": 22718,
       "length": 25,
       "value": "\"Removed old ads: \""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/ADNetworkSDK.swift",
       "kind": "StringLiteral",
-      "offset": 22504,
+      "offset": 22741,
       "length": 1,
       "value": "\".\""
     },
@@ -3932,287 +4117,294 @@
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Classes\/ADDataCollector.swift",
       "kind": "StringLiteral",
-      "offset": 3285,
+      "offset": 3289,
       "length": 14,
       "value": "\"CFBundleName\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Classes\/ADDataCollector.swift",
       "kind": "StringLiteral",
-      "offset": 3691,
+      "offset": 3692,
       "length": 7,
       "value": "\"Apple\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Classes\/ADDataCollector.swift",
       "kind": "StringLiteral",
-      "offset": 3719,
+      "offset": 3720,
       "length": 5,
       "value": "\"iOS\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Classes\/ADDataCollector.swift",
       "kind": "IntegerLiteral",
-      "offset": 3895,
+      "offset": 3896,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Classes\/ADDataCollector.swift",
       "kind": "IntegerLiteral",
-      "offset": 3899,
+      "offset": 3900,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Classes\/ADDataCollector.swift",
       "kind": "StringLiteral",
-      "offset": 4449,
+      "offset": 4450,
       "length": 111,
       "value": "\"iPhone; U; CPU like Mac OS X; en) AppleWebKit\/420+ (KHTML, like Gecko) Version\/3.0 Mobile\/1A543a Safari\/419.3\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Classes\/ADDataCollector.swift",
       "kind": "StringLiteral",
-      "offset": 5268,
+      "offset": 5269,
       "length": 7,
       "value": "\"Apple\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Classes\/ADDataCollector.swift",
       "kind": "StringLiteral",
-      "offset": 5296,
+      "offset": 5297,
       "length": 5,
       "value": "\"iOS\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Classes\/ADDataCollector.swift",
       "kind": "IntegerLiteral",
-      "offset": 5426,
+      "offset": 5427,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Classes\/ADDataCollector.swift",
       "kind": "StringLiteral",
-      "offset": 5710,
+      "offset": 5711,
       "length": 111,
       "value": "\"iPhone; U; CPU like Mac OS X; en) AppleWebKit\/420+ (KHTML, like Gecko) Version\/3.0 Mobile\/1A543a Safari\/419.3\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Classes\/ADDataCollector.swift",
       "kind": "BooleanLiteral",
-      "offset": 6235,
+      "offset": 6236,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Classes\/ADDataCollector.swift",
       "kind": "IntegerLiteral",
-      "offset": 6347,
+      "offset": 6348,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Classes\/ADDataCollector.swift",
       "kind": "IntegerLiteral",
-      "offset": 6388,
+      "offset": 6389,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Classes\/ADDataCollector.swift",
       "kind": "IntegerLiteral",
-      "offset": 7228,
+      "offset": 7229,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Classes\/ADDataCollector.swift",
       "kind": "StringLiteral",
-      "offset": 7397,
+      "offset": 7398,
       "length": 3,
       "value": "\".\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Classes\/ADDataCollector.swift",
       "kind": "StringLiteral",
-      "offset": 7429,
+      "offset": 7430,
       "length": 3,
       "value": "\".\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Classes\/ADDataCollector.swift",
       "kind": "StringLiteral",
-      "offset": 7987,
+      "offset": 7988,
       "length": 12,
       "value": "\"providers:\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Classes\/ADDataCollector.swift",
       "kind": "StringLiteral",
-      "offset": 8138,
+      "offset": 8139,
       "length": 10,
       "value": "\"carrier:\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Classes\/ADDataCollector.swift",
       "kind": "StringLiteral",
-      "offset": 8419,
+      "offset": 8209,
+      "length": 4,
+      "value": "\"--\""
+    },
+    {
+      "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Classes\/ADDataCollector.swift",
+      "kind": "StringLiteral",
+      "offset": 8476,
       "length": 16,
       "value": "\"www.google.com\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Classes\/ADDataCollector.swift",
       "kind": "IntegerLiteral",
-      "offset": 8463,
+      "offset": 8520,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Classes\/ADDataCollector.swift",
       "kind": "IntegerLiteral",
-      "offset": 8995,
+      "offset": 9052,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Classes\/ADDataCollector.swift",
       "kind": "IntegerLiteral",
-      "offset": 9205,
+      "offset": 9262,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Classes\/ADDataCollector.swift",
       "kind": "IntegerLiteral",
-      "offset": 9289,
+      "offset": 9346,
       "length": 1,
       "value": "6"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Classes\/ADDataCollector.swift",
       "kind": "IntegerLiteral",
-      "offset": 9349,
+      "offset": 9406,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Classes\/ADDataCollector.swift",
       "kind": "IntegerLiteral",
-      "offset": 9419,
+      "offset": 9476,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Classes\/ADDataCollector.swift",
       "kind": "IntegerLiteral",
-      "offset": 9479,
+      "offset": 9536,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Classes\/ADDataCollector.swift",
       "kind": "IntegerLiteral",
-      "offset": 9699,
+      "offset": 9756,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Classes\/ADDataCollector.swift",
       "kind": "StringLiteral",
-      "offset": 9883,
+      "offset": 9940,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Classes\/ADDataCollector.swift",
       "kind": "StringLiteral",
-      "offset": 10319,
+      "offset": 10376,
       "length": 5,
       "value": "\"en0\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Classes\/ADDataCollector.swift",
       "kind": "StringLiteral",
-      "offset": 10336,
+      "offset": 10393,
       "length": 5,
       "value": "\"en2\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Classes\/ADDataCollector.swift",
       "kind": "StringLiteral",
-      "offset": 10353,
+      "offset": 10410,
       "length": 5,
       "value": "\"en3\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Classes\/ADDataCollector.swift",
       "kind": "StringLiteral",
-      "offset": 10370,
+      "offset": 10427,
       "length": 5,
       "value": "\"en4\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Classes\/ADDataCollector.swift",
       "kind": "StringLiteral",
-      "offset": 10387,
+      "offset": 10444,
       "length": 9,
       "value": "\"pdp_ip0\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Classes\/ADDataCollector.swift",
       "kind": "StringLiteral",
-      "offset": 10408,
+      "offset": 10465,
       "length": 9,
       "value": "\"pdp_ip1\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Classes\/ADDataCollector.swift",
       "kind": "StringLiteral",
-      "offset": 10429,
+      "offset": 10486,
       "length": 9,
       "value": "\"pdp_ip2\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Classes\/ADDataCollector.swift",
       "kind": "StringLiteral",
-      "offset": 10450,
+      "offset": 10507,
       "length": 9,
       "value": "\"pdp_ip3\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Classes\/ADDataCollector.swift",
       "kind": "IntegerLiteral",
-      "offset": 10520,
+      "offset": 10577,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Classes\/ADDataCollector.swift",
       "kind": "IntegerLiteral",
-      "offset": 10704,
+      "offset": 10761,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Classes\/ADDataCollector.swift",
       "kind": "StringLiteral",
-      "offset": 11037,
+      "offset": 11094,
       "length": 11,
       "value": "\"userAgent\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Classes\/ADDataCollector.swift",
       "kind": "BooleanLiteral",
-      "offset": 11477,
+      "offset": 11534,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Classes\/ADDataCollector.swift",
       "kind": "BooleanLiteral",
-      "offset": 11516,
+      "offset": 11573,
       "length": 5,
       "value": "false"
     },
@@ -5479,21 +5671,21 @@
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Models\/ADResponseDataModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 843,
+      "offset": 916,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Models\/ADResponseDataModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 851,
+      "offset": 924,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Models\/ADResponseDataModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 885,
+      "offset": 958,
       "length": 5,
       "value": "false"
     },
@@ -5787,98 +5979,98 @@
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Classes\/ADWebViewHandler.swift",
       "kind": "BooleanLiteral",
-      "offset": 665,
+      "offset": 672,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Classes\/ADWebViewHandler.swift",
       "kind": "BooleanLiteral",
-      "offset": 810,
+      "offset": 709,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Classes\/ADWebViewHandler.swift",
+      "kind": "BooleanLiteral",
+      "offset": 854,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Classes\/ADWebViewHandler.swift",
       "kind": "BooleanLiteral",
-      "offset": 844,
+      "offset": 888,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Classes\/ADWebViewHandler.swift",
       "kind": "StringLiteral",
-      "offset": 858,
+      "offset": 902,
       "length": 29,
       "value": "\"allowFileAccessFromFileURLs\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Classes\/ADWebViewHandler.swift",
       "kind": "BooleanLiteral",
-      "offset": 1049,
+      "offset": 1093,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Classes\/ADWebViewHandler.swift",
       "kind": "Array",
-      "offset": 1119,
+      "offset": 1163,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Classes\/ADWebViewHandler.swift",
       "kind": "BooleanLiteral",
-      "offset": 1153,
+      "offset": 1197,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Classes\/ADWebViewHandler.swift",
       "kind": "StringLiteral",
-      "offset": 1167,
+      "offset": 1211,
       "length": 35,
       "value": "\"_allowUniversalAccessFromFileURLs\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Classes\/ADWebViewHandler.swift",
       "kind": "BooleanLiteral",
-      "offset": 1438,
+      "offset": 1482,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Classes\/ADWebViewHandler.swift",
       "kind": "BooleanLiteral",
-      "offset": 1522,
+      "offset": 1566,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Classes\/ADWebViewHandler.swift",
       "kind": "BooleanLiteral",
-      "offset": 1660,
+      "offset": 1739,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Classes\/ADWebViewHandler.swift",
       "kind": "BooleanLiteral",
-      "offset": 2145,
+      "offset": 2224,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Classes\/ADWebViewHandler.swift",
       "kind": "BooleanLiteral",
-      "offset": 2257,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Classes\/ADWebViewHandler.swift",
-      "kind": "BooleanLiteral",
-      "offset": 2792,
+      "offset": 2336,
       "length": 5,
       "value": "false"
     },
@@ -5886,99 +6078,162 @@
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Classes\/ADWebViewHandler.swift",
       "kind": "BooleanLiteral",
       "offset": 2871,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Classes\/ADWebViewHandler.swift",
-      "kind": "StringLiteral",
-      "offset": 3580,
-      "length": 5,
-      "value": "\"90%\""
-    },
-    {
-      "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Classes\/ADWebViewHandler.swift",
-      "kind": "StringLiteral",
-      "offset": 3588,
-      "length": 14,
-      "value": "\"device-width\""
-    },
-    {
-      "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Classes\/ADWebViewHandler.swift",
-      "kind": "StringLiteral",
-      "offset": 3631,
-      "length": 44,
-      "value": "\"var meta = document.createElement('meta');\""
-    },
-    {
-      "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Classes\/ADWebViewHandler.swift",
-      "kind": "StringLiteral",
-      "offset": 3701,
-      "length": 23,
-      "value": "\"meta.name='viewport';\""
-    },
-    {
-      "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Classes\/ADWebViewHandler.swift",
-      "kind": "StringLiteral",
-      "offset": 3750,
-      "length": 96,
-      "value": "\"meta.content='width=\""
-    },
-    {
-      "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Classes\/ADWebViewHandler.swift",
-      "kind": "StringLiteral",
-      "offset": 3784,
-      "length": 3,
-      "value": "\"';'initial-scale=1.0';'maximum-scale=1.0';'user-scalable=no';\""
-    },
-    {
-      "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Classes\/ADWebViewHandler.swift",
-      "kind": "StringLiteral",
-      "offset": 3919,
-      "length": 61,
-      "value": "\"document.getElementsByTagName('head')[0].appendChild(meta);\""
-    },
-    {
-      "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Classes\/ADWebViewHandler.swift",
-      "kind": "BooleanLiteral",
-      "offset": 4303,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Classes\/ADWebViewHandler.swift",
       "kind": "BooleanLiteral",
-      "offset": 4339,
+      "offset": 2950,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Classes\/ADWebViewHandler.swift",
       "kind": "StringLiteral",
-      "offset": 5732,
+      "offset": 3659,
+      "length": 7,
+      "value": "\"320px\""
+    },
+    {
+      "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Classes\/ADWebViewHandler.swift",
+      "kind": "StringLiteral",
+      "offset": 3669,
+      "length": 14,
+      "value": "\"device-width\""
+    },
+    {
+      "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Classes\/ADWebViewHandler.swift",
+      "kind": "StringLiteral",
+      "offset": 3721,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Classes\/ADWebViewHandler.swift",
+      "kind": "StringLiteral",
+      "offset": 3726,
+      "length": 22,
+      "value": "\", shrink-to-fit=true\""
+    },
+    {
+      "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Classes\/ADWebViewHandler.swift",
+      "kind": "StringLiteral",
+      "offset": 3777,
+      "length": 44,
+      "value": "\"var meta = document.createElement('meta');\""
+    },
+    {
+      "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Classes\/ADWebViewHandler.swift",
+      "kind": "StringLiteral",
+      "offset": 3847,
+      "length": 23,
+      "value": "\"meta.name='viewport';\""
+    },
+    {
+      "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Classes\/ADWebViewHandler.swift",
+      "kind": "StringLiteral",
+      "offset": 3896,
+      "length": 126,
+      "value": "\"meta.content='width=\""
+    },
+    {
+      "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Classes\/ADWebViewHandler.swift",
+      "kind": "StringLiteral",
+      "offset": 3930,
+      "length": 1,
+      "value": "\", initial-scale=1.0, maximum-scale=2.0, minimum-scale=1.0, user-scalable=no\""
+    },
+    {
+      "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Classes\/ADWebViewHandler.swift",
+      "kind": "StringLiteral",
+      "offset": 4019,
+      "length": 50,
+      "value": "\"';\""
+    },
+    {
+      "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Classes\/ADWebViewHandler.swift",
+      "kind": "StringLiteral",
+      "offset": 4105,
+      "length": 61,
+      "value": "\"document.getElementsByTagName('head')[0].appendChild(meta);\""
+    },
+    {
+      "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Classes\/ADWebViewHandler.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4582,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Classes\/ADWebViewHandler.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4629,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Classes\/ADWebViewHandler.swift",
+      "kind": "StringLiteral",
+      "offset": 5395,
+      "length": 13,
+      "value": "\"url: \""
+    },
+    {
+      "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Classes\/ADWebViewHandler.swift",
+      "kind": "StringLiteral",
+      "offset": 5407,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Classes\/ADWebViewHandler.swift",
+      "kind": "Dictionary",
+      "offset": 5656,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Classes\/ADWebViewHandler.swift",
+      "kind": "StringLiteral",
+      "offset": 6986,
+      "length": 43,
+      "value": "\"WKWebView didFail withError: \""
+    },
+    {
+      "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Classes\/ADWebViewHandler.swift",
+      "kind": "StringLiteral",
+      "offset": 7028,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Classes\/ADWebViewHandler.swift",
+      "kind": "BooleanLiteral",
+      "offset": 7806,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Classes\/ADWebViewHandler.swift",
+      "kind": "StringLiteral",
+      "offset": 8788,
       "length": 9,
       "value": "\"logging\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Classes\/ADWebViewHandler.swift",
       "kind": "StringLiteral",
-      "offset": 5788,
+      "offset": 8844,
       "length": 95,
       "value": "\"var console = { log: function(msg){window.webkit.messageHandlers.logging.postMessage(msg) }};\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Classes\/ADWebViewHandler.swift",
       "kind": "BooleanLiteral",
-      "offset": 5936,
+      "offset": 8992,
       "length": 4,
       "value": "true"
-    },
-    {
-      "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Classes\/ADWebViewHandler.swift",
-      "kind": "StringLiteral",
-      "offset": 6183,
-      "length": 11,
-      "value": "\"WebView: \""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Classes\/ADNetwork.swift",
