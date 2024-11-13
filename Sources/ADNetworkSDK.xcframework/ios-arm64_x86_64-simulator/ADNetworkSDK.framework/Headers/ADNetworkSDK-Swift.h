@@ -277,6 +277,7 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 #if __has_warning("-Watimport-in-framework-header")
 #pragma clang diagnostic ignored "-Watimport-in-framework-header"
 #endif
+@import Foundation;
 @import ObjectiveC;
 @import WebKit;
 #endif
@@ -314,6 +315,7 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, strong) ADNetworkSDK * _Nonnul
 - (void)setupWithKey:(NSString * _Nonnull)key delegate:(id <ADNetworkSDKDelegate> _Nonnull)delegate;
 - (NSString * _Nonnull)version SWIFT_WARN_UNUSED_RESULT;
 - (void)resetWithCompletionHandler:(void (^ _Nonnull)(void))completionHandler;
+- (void)getDeviceDataWithCompletion:(void (^ _Nonnull)(NSString * _Nonnull))completion;
 - (void)loadAdWithRewarded:(BOOL)rewarded;
 - (void)show;
 - (void)close;
@@ -332,6 +334,19 @@ SWIFT_PROTOCOL("_TtP12ADNetworkSDK20ADNetworkSDKDelegate_")
 - (void)showFailedWithError:(NSString * _Nonnull)error;
 @optional
 - (void)log:(NSString * _Nonnull)message;
+@end
+
+@class NSData;
+
+SWIFT_CLASS("_TtC12ADNetworkSDK17PropertyCollector")
+@interface PropertyCollector : NSObject <NSURLSessionTaskDelegate>
+SWIFT_CLASS_PROPERTY(@property (nonatomic, class, strong) PropertyCollector * _Nonnull shared;)
++ (PropertyCollector * _Nonnull)shared SWIFT_WARN_UNUSED_RESULT;
++ (void)setShared:(PropertyCollector * _Nonnull)value;
+- (nonnull instancetype)init SWIFT_UNAVAILABLE;
++ (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
+- (void)runRequest;
+- (void)getDeviceInfoWithCompletionHandler:(void (^ _Nonnull)(NSData * _Nullable))completionHandler;
 @end
 
 
@@ -631,6 +646,7 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 #if __has_warning("-Watimport-in-framework-header")
 #pragma clang diagnostic ignored "-Watimport-in-framework-header"
 #endif
+@import Foundation;
 @import ObjectiveC;
 @import WebKit;
 #endif
@@ -668,6 +684,7 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, strong) ADNetworkSDK * _Nonnul
 - (void)setupWithKey:(NSString * _Nonnull)key delegate:(id <ADNetworkSDKDelegate> _Nonnull)delegate;
 - (NSString * _Nonnull)version SWIFT_WARN_UNUSED_RESULT;
 - (void)resetWithCompletionHandler:(void (^ _Nonnull)(void))completionHandler;
+- (void)getDeviceDataWithCompletion:(void (^ _Nonnull)(NSString * _Nonnull))completion;
 - (void)loadAdWithRewarded:(BOOL)rewarded;
 - (void)show;
 - (void)close;
@@ -686,6 +703,19 @@ SWIFT_PROTOCOL("_TtP12ADNetworkSDK20ADNetworkSDKDelegate_")
 - (void)showFailedWithError:(NSString * _Nonnull)error;
 @optional
 - (void)log:(NSString * _Nonnull)message;
+@end
+
+@class NSData;
+
+SWIFT_CLASS("_TtC12ADNetworkSDK17PropertyCollector")
+@interface PropertyCollector : NSObject <NSURLSessionTaskDelegate>
+SWIFT_CLASS_PROPERTY(@property (nonatomic, class, strong) PropertyCollector * _Nonnull shared;)
++ (PropertyCollector * _Nonnull)shared SWIFT_WARN_UNUSED_RESULT;
++ (void)setShared:(PropertyCollector * _Nonnull)value;
+- (nonnull instancetype)init SWIFT_UNAVAILABLE;
++ (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
+- (void)runRequest;
+- (void)getDeviceInfoWithCompletionHandler:(void (^ _Nonnull)(NSData * _Nullable))completionHandler;
 @end
 
 

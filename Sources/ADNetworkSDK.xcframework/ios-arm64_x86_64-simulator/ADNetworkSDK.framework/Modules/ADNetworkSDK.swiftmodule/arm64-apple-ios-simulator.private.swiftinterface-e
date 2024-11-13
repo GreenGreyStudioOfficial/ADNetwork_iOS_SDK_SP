@@ -4,6 +4,7 @@
 // swift-module-flags-ignorable: -enable-bare-slash-regex
 @_exported import ADNetworkSDK
 import AVFoundation
+import CommonCrypto
 import CoreLocation
 import CoreTelephony
 import Foundation
@@ -16,6 +17,12 @@ import WebKit
 import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
+@_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers @objc public class PropertyCollector : ObjectiveC.NSObject, Foundation.URLSessionTaskDelegate {
+  @objc public static var shared: ADNetworkSDK.PropertyCollector
+  @objc public func runRequest()
+  @objc public func getDeviceInfo(completionHandler: @escaping (Foundation.Data?) -> Swift.Void)
+  @objc deinit
+}
 public enum ADFormat : Swift.Int, Swift.CaseIterable {
   case video, banner, fullscreenBanner
   public init?(rawValue: Swift.Int)
@@ -49,6 +56,7 @@ public enum ADFormat : Swift.Int, Swift.CaseIterable {
   @objc public func setupWithKey(_ key: Swift.String, delegate: any ADNetworkSDK.ADNetworkSDKDelegate)
   @objc public func version() -> Swift.String
   @objc public func reset(completionHandler: @escaping () -> Swift.Void)
+  @objc public func getDeviceData(completion: @escaping (Swift.String) -> Swift.Void)
   @objc public func loadAd(rewarded: Swift.Bool)
   public func load(rewarded: Swift.Bool, formats: [ADNetworkSDK.ADFormat]? = nil)
   @objc public func show()
