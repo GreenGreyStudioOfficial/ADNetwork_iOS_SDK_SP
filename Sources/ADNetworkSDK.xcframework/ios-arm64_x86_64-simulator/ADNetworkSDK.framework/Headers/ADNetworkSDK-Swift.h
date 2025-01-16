@@ -316,7 +316,7 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, strong) ADNetworkSDK * _Nonnul
 - (NSString * _Nonnull)version SWIFT_WARN_UNUSED_RESULT;
 - (void)resetWithCompletionHandler:(void (^ _Nonnull)(void))completionHandler;
 - (void)getDeviceDataWithCompletion:(void (^ _Nonnull)(NSString * _Nonnull))completion;
-- (void)loadAdWithRewarded:(BOOL)rewarded;
+- (void)loadAdWithRewarded:(BOOL)rewarded formats:(NSArray<NSNumber *> * _Nonnull)formats;
 - (void)show;
 - (void)close;
 @end
@@ -685,7 +685,7 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, strong) ADNetworkSDK * _Nonnul
 - (NSString * _Nonnull)version SWIFT_WARN_UNUSED_RESULT;
 - (void)resetWithCompletionHandler:(void (^ _Nonnull)(void))completionHandler;
 - (void)getDeviceDataWithCompletion:(void (^ _Nonnull)(NSString * _Nonnull))completion;
-- (void)loadAdWithRewarded:(BOOL)rewarded;
+- (void)loadAdWithRewarded:(BOOL)rewarded formats:(NSArray<NSNumber *> * _Nonnull)formats;
 - (void)show;
 - (void)close;
 @end

@@ -57,7 +57,7 @@ public enum ADFormat : Swift.Int, Swift.CaseIterable {
   @objc public func version() -> Swift.String
   @objc public func reset(completionHandler: @escaping () -> Swift.Void)
   @objc public func getDeviceData(completion: @escaping (Swift.String) -> Swift.Void)
-  @objc public func loadAd(rewarded: Swift.Bool)
+  @objc public func loadAd(rewarded: Swift.Bool, formats: [Swift.Int])
   public func load(rewarded: Swift.Bool, formats: [ADFormat]? = nil)
   @objc public func show()
   @objc public func close()
