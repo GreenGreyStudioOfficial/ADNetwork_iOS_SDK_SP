@@ -1,7 +1,7 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.9 (swiftlang-5.9.0.128.108 clang-1500.0.40.1)
-// swift-module-flags: -target arm64-apple-ios13.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name ADNetworkSDK
-// swift-module-flags-ignorable: -enable-bare-slash-regex
+// swift-compiler-version: Apple Swift version 6.0.3 effective-5.10 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)
+// swift-module-flags: -target arm64-apple-ios13.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-bare-slash-regex -module-name ADNetworkSDK
+// swift-module-flags-ignorable: -no-verify-emitted-module-interface
 @_exported import ADNetworkSDK
 import AVFoundation
 import CommonCrypto
@@ -23,50 +23,143 @@ import _SwiftConcurrencyShims
   @objc public func getDeviceInfo(completionHandler: @escaping (Foundation.Data?) -> Swift.Void)
   @objc deinit
 }
-public enum ADFormat : Swift.Int, Swift.CaseIterable {
-  case video, banner, fullscreenBanner
+@objc public enum AdType : Swift.Int, Swift.CaseIterable {
+  case INTERSTITIAL = 0, REWARDED, BANNER, MREC
+  public var description: Swift.String {
+    get
+  }
   public init?(rawValue: Swift.Int)
-  public typealias AllCases = [ADNetworkSDK.ADFormat]
+  public typealias AllCases = [ADNetworkSDK.AdType]
   public typealias RawValue = Swift.Int
-  public static var allCases: [ADNetworkSDK.ADFormat] {
+  nonisolated public static var allCases: [ADNetworkSDK.AdType] {
     get
   }
   public var rawValue: Swift.Int {
     get
   }
 }
-@objc public protocol ADNetworkSDKDelegate {
-  @objc func downloadComplete(id: Swift.String, fileName: Swift.String)
-  @objc func downloadFailed(id: Swift.String, error: Swift.String)
-  @objc func haveAdsToShow(available: Swift.Bool)
-  @objc func showStart()
-  @objc func showClose()
-  @objc func showClick()
-  @objc func showComplete(id: Swift.String?, rewarded: Swift.Bool, rewardRecieved: Swift.Bool)
-  @objc func showFailed(error: Swift.String)
-  @objc optional func log(_ message: Swift.String)
+@objc public enum InitializationErrorType : Swift.Int, Swift.CaseIterable {
+  case UNKNOWN = 0, GAME_ID_IS_NULL_OR_EMPTY, SDK_ALREADY_INITIALIZED, INITIALIZE_PROCESS_ALREADY_STARTED, GGAD_CONNECTOR_INITIALIZE_FAILED, THIRD_PARTY_CONNECTOR_ERROR, INVALID_GAME_ID
+  public init?(rawValue: Swift.Int)
+  public typealias AllCases = [ADNetworkSDK.InitializationErrorType]
+  public typealias RawValue = Swift.Int
+  nonisolated public static var allCases: [ADNetworkSDK.InitializationErrorType] {
+    get
+  }
+  public var rawValue: Swift.Int {
+    get
+  }
+}
+@objc public enum InitializationWarningType : Swift.Int, Swift.CaseIterable {
+  case UNKNOWN = 0, NOT_ALL_CONNECTORS_WAS_INITIALIZED, THIRD_PARTY_CONNECTOR_WARNING
+  public init?(rawValue: Swift.Int)
+  public typealias AllCases = [ADNetworkSDK.InitializationWarningType]
+  public typealias RawValue = Swift.Int
+  nonisolated public static var allCases: [ADNetworkSDK.InitializationWarningType] {
+    get
+  }
+  public var rawValue: Swift.Int {
+    get
+  }
+}
+@objc public enum LoadErrorType : Swift.Int, Swift.CaseIterable {
+  case UNKNOWN = 0, CONNECTION_ERROR, DATA_PROCESSING_ERROR, PROTOCOL_ERROR, NOT_INITIALIZED_ERROR, TO_MANY_VIDEOS_LOADED, AVAILABLE_CREATIVE_NOT_FOUND, NO_CONTENT, WEBVIEW_CONTENT_NOT_LOADED
+  public init?(rawValue: Swift.Int)
+  public typealias AllCases = [ADNetworkSDK.LoadErrorType]
+  public typealias RawValue = Swift.Int
+  nonisolated public static var allCases: [ADNetworkSDK.LoadErrorType] {
+    get
+  }
+  public var rawValue: Swift.Int {
+    get
+  }
+}
+@objc public enum ShowErrorType : Swift.Int, Swift.CaseIterable {
+  case UNKNOWN = 0, ID_NOT_FOUND, ADV_CACHE_NOT_FOUND, VIDEO_DATA_NOT_FOUND, VIDEO_PLAYER_ERROR, NO_LOADED_CONTENT, NOT_INITIALIZED_ERROR, INITIALIZATION_NOT_FINISHED, ACTIVITY_WAS_DESTROYED, BANNER_VIEW_NOT_FOUND, THIRD_PARTY_CONNECTOR_ERROR, CONNECTORS_NOT_RECEIVED, NOT_SUPPORTED_AD_TYPE
+  public init?(rawValue: Swift.Int)
+  public typealias AllCases = [ADNetworkSDK.ShowErrorType]
+  public typealias RawValue = Swift.Int
+  nonisolated public static var allCases: [ADNetworkSDK.ShowErrorType] {
+    get
+  }
+  public var rawValue: Swift.Int {
+    get
+  }
+}
+@objc public enum ShowCompletionState : Swift.Int, Swift.CaseIterable {
+  case SHOW_COMPLETE_BY_CLOSE_BUTTON = 0, SHOW_COMPLETE_BY_SKIP_BUTTON
+  public var description: Swift.String {
+    get
+  }
+  public init?(rawValue: Swift.Int)
+  public typealias AllCases = [ADNetworkSDK.ShowCompletionState]
+  public typealias RawValue = Swift.Int
+  nonisolated public static var allCases: [ADNetworkSDK.ShowCompletionState] {
+    get
+  }
+  public var rawValue: Swift.Int {
+    get
+  }
 }
 @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers @objc public class ADNetworkSDK : ObjectiveC.NSObject {
-  @objc weak public var delegate: (any ADNetworkSDK.ADNetworkSDKDelegate)?
-  @objc public var debug: Swift.Bool {
-    @objc get
-    @objc set
-  }
+  @objc weak public var initializationListener: (any ADNetworkSDK.IAdInitializationListener)?
+  @objc weak public var loadListener: (any ADNetworkSDK.IAdLoadListener)?
+  @objc weak public var showListener: (any ADNetworkSDK.IAdShowListener)?
+  @objc weak public var showBannerListener: (any ADNetworkSDK.IAdShowBannerListener)?
+  @objc weak public var hideBannerListener: (any ADNetworkSDK.IAdHideBannerListener)?
+  @objc public var isInitialized: Swift.Bool
   @objc public static var shared: ADNetworkSDK.ADNetworkSDK
-  @objc public func setupWithKey(_ key: Swift.String, delegate: any ADNetworkSDK.ADNetworkSDKDelegate)
+  @objc public func initialize(gameId: Swift.String, isTestMode: Swift.Bool, isSSP: Swift.Bool, listener: any ADNetworkSDK.IAdInitializationListener)
+  public func initialize(gameId: Swift.String, isTestMode: Swift.Bool, isSSP: Swift.Bool, listener: any ADNetworkSDK.IAdInitializationListener, autoLoadEnabled: Swift.Bool? = false, adTypesForAutoLoad: Swift.Array<ADNetworkSDK.AdType>? = nil)
+  public func setKey(_ gameId: Swift.String)
+  @objc public func load(advertiseType: ADNetworkSDK.AdType, listener: any ADNetworkSDK.IAdLoadListener, placementId: Swift.String? = nil)
+  @objc public func show(listener: any ADNetworkSDK.IAdShowListener, bannerListener: (any ADNetworkSDK.IAdShowBannerListener)?, hideBannerListener: (any ADNetworkSDK.IAdHideBannerListener)?, placementId: Swift.String? = nil)
   @objc public func version() -> Swift.String
   @objc public func reset(completionHandler: @escaping () -> Swift.Void)
   @objc public func getDeviceData(completion: @escaping (Swift.String) -> Swift.Void)
-  @objc public func loadAd(rewarded: Swift.Bool, formats: [Swift.Int])
-  public func load(rewarded: Swift.Bool, formats: [ADNetworkSDK.ADFormat]? = nil)
-  @objc public func show()
   @objc public func close()
   @objc deinit
 }
-extension WebKit.WKWebView : WebKit.WKScriptMessageHandler {
-  @_Concurrency.MainActor(unsafe) public func enableConsoleLog()
-  @_Concurrency.MainActor(unsafe) @objc dynamic public func userContentController(_ userContentController: WebKit.WKUserContentController, didReceive message: WebKit.WKScriptMessage)
+@objc public protocol IAdInitializationListener {
+  @objc func onInitializationComplete()
+  @objc func onInitializationError(error: ADNetworkSDK.InitializationErrorType, errorMessage: Swift.String)
+  @objc optional func log(_ message: Swift.String)
 }
-extension ADNetworkSDK.ADFormat : Swift.Equatable {}
-extension ADNetworkSDK.ADFormat : Swift.Hashable {}
-extension ADNetworkSDK.ADFormat : Swift.RawRepresentable {}
+@objc public protocol IAdLoadListener {
+  @objc func onLoadComplete(id: Swift.String?)
+  @objc func onLoadError(error: ADNetworkSDK.LoadErrorType, errorMessage: Swift.String, id: Swift.String?)
+}
+@objc public protocol IAdShowListener {
+  @objc func onShowChangeState(id: Swift.String?, showCompletionState: ADNetworkSDK.ShowCompletionState)
+  @objc func onShowError(error: ADNetworkSDK.ShowErrorType, errorMessage: Swift.String, id: Swift.String?)
+}
+@objc public protocol IAdShowBannerListener {
+  @objc func onBannerShow(id: Swift.String?)
+  @objc func onBannerShowError(error: ADNetworkSDK.ShowErrorType, errorMessage: Swift.String, id: Swift.String?)
+}
+@objc public protocol IAdHideBannerListener {
+  @objc func onBannerHide(id: Swift.String?)
+  @objc func onBannerHideError(error: ADNetworkSDK.ShowErrorType, errorMessage: Swift.String, id: Swift.String?)
+}
+extension WebKit.WKWebView : WebKit.WKScriptMessageHandler {
+  @_Concurrency.MainActor @preconcurrency public func enableConsoleLog()
+  @_Concurrency.MainActor @preconcurrency @objc dynamic public func userContentController(_ userContentController: WebKit.WKUserContentController, didReceive message: WebKit.WKScriptMessage)
+}
+extension ADNetworkSDK.AdType : Swift.Equatable {}
+extension ADNetworkSDK.AdType : Swift.Hashable {}
+extension ADNetworkSDK.AdType : Swift.RawRepresentable {}
+extension ADNetworkSDK.InitializationErrorType : Swift.Equatable {}
+extension ADNetworkSDK.InitializationErrorType : Swift.Hashable {}
+extension ADNetworkSDK.InitializationErrorType : Swift.RawRepresentable {}
+extension ADNetworkSDK.InitializationWarningType : Swift.Equatable {}
+extension ADNetworkSDK.InitializationWarningType : Swift.Hashable {}
+extension ADNetworkSDK.InitializationWarningType : Swift.RawRepresentable {}
+extension ADNetworkSDK.LoadErrorType : Swift.Equatable {}
+extension ADNetworkSDK.LoadErrorType : Swift.Hashable {}
+extension ADNetworkSDK.LoadErrorType : Swift.RawRepresentable {}
+extension ADNetworkSDK.ShowErrorType : Swift.Equatable {}
+extension ADNetworkSDK.ShowErrorType : Swift.Hashable {}
+extension ADNetworkSDK.ShowErrorType : Swift.RawRepresentable {}
+extension ADNetworkSDK.ShowCompletionState : Swift.Equatable {}
+extension ADNetworkSDK.ShowCompletionState : Swift.Hashable {}
+extension ADNetworkSDK.ShowCompletionState : Swift.RawRepresentable {}
