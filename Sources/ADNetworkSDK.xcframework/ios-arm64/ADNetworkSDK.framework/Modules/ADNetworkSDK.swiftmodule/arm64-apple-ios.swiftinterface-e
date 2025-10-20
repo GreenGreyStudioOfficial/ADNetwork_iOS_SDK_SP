@@ -101,14 +101,14 @@ import _SwiftConcurrencyShims
     get
   }
 }
-@_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers @objc public class ADNetworkSDK : ObjectiveC.NSObject {
+@_inheritsConvenienceInitializers @objc public class ADNetworkSDK : ObjectiveC.NSObject {
   @objc weak public var initializationListener: (any ADNetworkSDK.IAdInitializationListener)?
   @objc weak public var loadListener: (any ADNetworkSDK.IAdLoadListener)?
   @objc weak public var showListener: (any ADNetworkSDK.IAdShowListener)?
   @objc weak public var showBannerListener: (any ADNetworkSDK.IAdShowBannerListener)?
   @objc weak public var hideBannerListener: (any ADNetworkSDK.IAdHideBannerListener)?
   @objc public var isInitialized: Swift.Bool
-  @objc public static var shared: ADNetworkSDK.ADNetworkSDK
+  @objc override dynamic public init()
   @objc public func initialize(gameId: Swift.String, isTestMode: Swift.Bool, isSSP: Swift.Bool, listener: any ADNetworkSDK.IAdInitializationListener)
   public func initialize(gameId: Swift.String, isTestMode: Swift.Bool, isSSP: Swift.Bool, listener: any ADNetworkSDK.IAdInitializationListener, autoLoadEnabled: Swift.Bool? = false, adTypesForAutoLoad: Swift.Array<ADNetworkSDK.AdType>? = nil)
   public func setKey(_ gameId: Swift.String)

@@ -320,11 +320,7 @@ SWIFT_CLASS("_TtC12ADNetworkSDK12ADNetworkSDK")
 @property (nonatomic, weak) id <IAdShowBannerListener> _Nullable showBannerListener;
 @property (nonatomic, weak) id <IAdHideBannerListener> _Nullable hideBannerListener;
 @property (nonatomic) BOOL isInitialized;
-SWIFT_CLASS_PROPERTY(@property (nonatomic, class, strong) ADNetworkSDK * _Nonnull shared;)
-+ (ADNetworkSDK * _Nonnull)shared SWIFT_WARN_UNUSED_RESULT;
-+ (void)setShared:(ADNetworkSDK * _Nonnull)value;
-- (nonnull instancetype)init SWIFT_UNAVAILABLE;
-+ (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
+- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 - (void)initializeWithGameId:(NSString * _Nonnull)gameId isTestMode:(BOOL)isTestMode isSSP:(BOOL)isSSP listener:(id <IAdInitializationListener> _Nonnull)listener;
 - (void)loadWithAdvertiseType:(enum AdType)advertiseType listener:(id <IAdLoadListener> _Nonnull)listener placementId:(NSString * _Nullable)placementId;
 - (void)showWithListener:(id <IAdShowListener> _Nonnull)listener bannerListener:(id <IAdShowBannerListener> _Nullable)bannerListener hideBannerListener:(id <IAdHideBannerListener> _Nullable)hideBannerListener placementId:(NSString * _Nullable)placementId;

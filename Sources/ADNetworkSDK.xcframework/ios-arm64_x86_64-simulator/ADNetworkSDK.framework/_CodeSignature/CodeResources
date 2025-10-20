@@ -18,7 +18,7 @@
 		</data>
 		<key>Headers/ADNetworkSDK-Swift.h</key>
 		<data>
-		YJRWNteNJhmhwtm93ZdQFNV1obs=
+		D3ucARb2ui3F9fYRsvQx6KZv/3o=
 		</data>
 		<key>Headers/ADNetworkSDK.h</key>
 		<data>
@@ -30,11 +30,11 @@
 		</data>
 		<key>Modules/ADNetworkSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		udo091+ULebStXeMmX6Wib01DmQ=
+		wfBOUgxybTpRyYg/E7QmMAdIHvs=
 		</data>
 		<key>Modules/ADNetworkSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		9botWNdkfgNpDtgNd/WNxKU9d6E=
+		6UwFoiXEJrwEA64zrnmGBwVwfLM=
 		</data>
 		<key>Modules/ADNetworkSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -42,19 +42,19 @@
 		</data>
 		<key>Modules/ADNetworkSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		9botWNdkfgNpDtgNd/WNxKU9d6E=
+		6UwFoiXEJrwEA64zrnmGBwVwfLM=
 		</data>
 		<key>Modules/ADNetworkSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		I9mlWB+HcDy9yONGTqv4NH00MEI=
+		Vz7UVxb6QiA1VffAE6IjIFNa5CQ=
 		</data>
 		<key>Modules/ADNetworkSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		udo091+ULebStXeMmX6Wib01DmQ=
+		wfBOUgxybTpRyYg/E7QmMAdIHvs=
 		</data>
 		<key>Modules/ADNetworkSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		ZupURlN5v25CPE7kugCnJawkiZE=
+		sJH86KlS3lDTFgY+YgIgeu/Q2rg=
 		</data>
 		<key>Modules/ADNetworkSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -62,11 +62,11 @@
 		</data>
 		<key>Modules/ADNetworkSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		ZupURlN5v25CPE7kugCnJawkiZE=
+		sJH86KlS3lDTFgY+YgIgeu/Q2rg=
 		</data>
 		<key>Modules/ADNetworkSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		NuRoBh6bxeK86t5J3fTn5HDYmWk=
+		2CduRwkjd9qo1Wmu0src+TK2vPE=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -218,7 +218,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			+Wd5roO5JPfzhD2hZRlAZx8aEJ9KWpOg+5/+gX8b23E=
+			gQ8LLXmjEI3BoqZeHslMNyHg2GZdH+sKUreFcbTdcgU=
 			</data>
 		</dict>
 		<key>Headers/ADNetworkSDK.h</key>
@@ -232,14 +232,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			G4gm0PvmdpDnJYrIebdv+gtAlKxvO8tbLVxt0VZzC6g=
+			J9STl46CTg7bxItfIOmxOImNX0yD+PukWu+eb0isfKM=
 			</data>
 		</dict>
 		<key>Modules/ADNetworkSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			B+4mmqapXGpsg3OieYOZWP2Tru3UqxT9SGvNChsNoCQ=
+			BmDWQtQKjIfmSCK+Q+MlvWh+bF4F3kMxwzM2zX6n8Hg=
 			</data>
 		</dict>
 		<key>Modules/ADNetworkSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -253,28 +253,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			B+4mmqapXGpsg3OieYOZWP2Tru3UqxT9SGvNChsNoCQ=
+			BmDWQtQKjIfmSCK+Q+MlvWh+bF4F3kMxwzM2zX6n8Hg=
 			</data>
 		</dict>
 		<key>Modules/ADNetworkSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pnLYHXdn6k/UZ8seHEMtf0pgdD/QMvo1vBe2gxdJ6m0=
+			Lu4w1/8+ZivvI+UyMM2n2xvQA7iV8G6Wt4jie+WXC7c=
 			</data>
 		</dict>
 		<key>Modules/ADNetworkSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			G4gm0PvmdpDnJYrIebdv+gtAlKxvO8tbLVxt0VZzC6g=
+			J9STl46CTg7bxItfIOmxOImNX0yD+PukWu+eb0isfKM=
 			</data>
 		</dict>
 		<key>Modules/ADNetworkSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xAF0C/sLZK5hhqavAso22LBblW05apXGV1MH++fSfqM=
+			BBGAPyxCVf64BHNknY2vn+lgluwYGytONyv63ZYzzqQ=
 			</data>
 		</dict>
 		<key>Modules/ADNetworkSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -288,14 +288,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			xAF0C/sLZK5hhqavAso22LBblW05apXGV1MH++fSfqM=
+			BBGAPyxCVf64BHNknY2vn+lgluwYGytONyv63ZYzzqQ=
 			</data>
 		</dict>
 		<key>Modules/ADNetworkSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pe6QPD1rJ+k+smfq66H7/1toOtTShVdJYKHDNccgdbI=
+			Zjej/WW86v7KByhS2+6tU3EL8zDh/+V/HsVsLOpM51Q=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
