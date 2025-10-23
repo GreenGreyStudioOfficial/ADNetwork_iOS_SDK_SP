@@ -5402,7 +5402,10 @@
         "name": "WebKit",
         "printedName": "WebKit",
         "declKind": "Import",
-        "moduleName": "ADNetworkSDK"
+        "moduleName": "ADNetworkSDK",
+        "declAttributes": [
+          "Preconcurrency"
+        ]
       },
       {
         "kind": "Import",
@@ -6578,28 +6581,28 @@
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Classes\/ADWebViewHandler.swift",
       "kind": "StringLiteral",
-      "offset": 481,
+      "offset": 497,
       "length": 11,
       "value": "\"nativeapp\""
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Classes\/ADWebViewHandler.swift",
       "kind": "BooleanLiteral",
-      "offset": 570,
+      "offset": 586,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Classes\/ADWebViewHandler.swift",
       "kind": "BooleanLiteral",
-      "offset": 672,
+      "offset": 688,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/alexandertroitsky\/Documents\/AD\/ADNetworkSDK\/ADNetworkSDK\/Classes\/ADWebViewHandler.swift",
       "kind": "BooleanLiteral",
-      "offset": 709,
+      "offset": 725,
       "length": 5,
       "value": "false"
     },
